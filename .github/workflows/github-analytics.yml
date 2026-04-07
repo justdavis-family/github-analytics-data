@@ -46,8 +46,9 @@ jobs:
         run: mise install
 
       - name: Write collector config
+        # Config is written to /tmp so it is never staged by git add -A below.
         run: |
-          cat > config.yaml <<'EOF'
+          cat > /tmp/config.yaml <<'EOF'
           repos:
             - "org:justdavis-family"
             - "user:karlmdavis"
@@ -62,7 +63,7 @@ jobs:
         run: >
           mise run '//github-analytics:collect'
           -- --data-repo ${{ github.workspace }}
-          --config ${{ github.workspace }}/config.yaml
+          --config /tmp/config.yaml
 
       - name: Generate reports
         id: report
@@ -76,7 +77,8 @@ jobs:
         run: |
           git config user.name "GitHub Analytics Bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
+          # Exclude the tool checkout (a nested git repo) from staging.
+          git add -A -- ':!tool'
           git diff --cached --quiet \
             || git commit -m "data: collect analytics $(date -u +%Y-%m-%d)"
           git push || (git pull --rebase && git push)
