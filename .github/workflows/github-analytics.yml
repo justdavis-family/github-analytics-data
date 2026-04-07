@@ -32,8 +32,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           repository: justdavis-family/justdavis
-          # TODO: pin to a specific commit after the PR is merged to main.
-          ref: worktree-feature-github-analytics
+          ref: main
           path: tool
 
       - name: Install mise
