@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-04-07 04:52 UTC_
+_Last updated: 2026-04-07 07:14 UTC_
 
 ## Unique Visitors per Day
 
@@ -36,7 +36,7 @@ _Last updated: 2026-04-07 04:52 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.0 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.0 |
-| karlmdavis/ksoap2-android | 0.9 | 0.8 |
+| karlmdavis/ksoap2-android | 0.9 | 0.7 |
 | karlmdavis/kxml2 | 0.2 | 0.0 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 |
@@ -82,7 +82,7 @@ _Last updated: 2026-04-07 04:52 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.0 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.0 |
-| karlmdavis/ksoap2-android | 1.8 | 1.0 |
+| karlmdavis/ksoap2-android | 1.8 | 0.8 |
 | karlmdavis/kxml2 | 0.3 | 0.0 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 |
@@ -123,7 +123,7 @@ _Last updated: 2026-04-07 04:52 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.4 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.2 |
 | karlmdavis/jessentials | 0.3 | 0.2 |
-| karlmdavis/justdavis-ansible | 0.3 | 0.4 |
+| karlmdavis/justdavis-ansible | 0.3 | 0.3 |
 | karlmdavis/justdavis-finances | 19.0 | 30.8 |
 | karlmdavis/justdavis-karl | 0.6 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.2 |
@@ -169,7 +169,7 @@ _Last updated: 2026-04-07 04:52 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.4 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.2 |
-| karlmdavis/justdavis-ansible | 0.3 | 0.4 |
+| karlmdavis/justdavis-ansible | 0.3 | 0.3 |
 | karlmdavis/justdavis-finances | 49.4 | 62.8 |
 | karlmdavis/justdavis-karl | 0.9 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.2 |
