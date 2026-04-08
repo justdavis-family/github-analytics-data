@@ -1,26 +1,26 @@
 # karlmdavis/dotfiles
 
-_Last updated: 2026-04-07 07:14 UTC_
+_Last updated: 2026-04-08 07:17 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Week"
-  x-axis ["2026-W13", "2026-W14"]
-  line [0, 0]
+  x-axis ["2026-W13", "2026-W14", "2026-W15"]
+  line [0, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Week"
-  x-axis ["2026-W13", "2026-W14"]
-  line [0, 0]
+  x-axis ["2026-W13", "2026-W14", "2026-W15"]
+  line [0, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
   title "Unique Clones per Week"
-  x-axis ["2026-W13", "2026-W14"]
-  line [3, 5]
+  x-axis ["2026-W13", "2026-W14", "2026-W15"]
+  line [3, 5, 0]
 ```
 
 ## Traffic
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.0 | 0.0 | 0.4 | 0.7 |
-| 2026-04 | 0.0 | 0.0 | 0.8 | 0.8 |
+| 2026-04 | 0.0 | 0.0 | 0.6 | 0.6 |
 
 ## Current Totals
 
