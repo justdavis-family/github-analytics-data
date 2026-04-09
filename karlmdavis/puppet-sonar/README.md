@@ -1,6 +1,6 @@
 # karlmdavis/puppet-sonar
 
-_Last updated: 2026-04-08 07:17 UTC_
+_Last updated: 2026-04-09 07:20 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15"]
-  line [1, 3, 1]
+  line [1, 3, 2]
 ```
 
 ## Traffic
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.0 | 0.0 | 0.3 | 0.3 |
-| 2026-04 | 0.0 | 0.0 | 0.3 | 0.3 |
+| 2026-04 | 0.0 | 0.0 | 0.4 | 0.4 |
 
 ## Current Totals
 
