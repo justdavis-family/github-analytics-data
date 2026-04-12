@@ -1,6 +1,6 @@
 # karlmdavis/usgs-water-api-java
 
-_Last updated: 2026-04-11 06:59 UTC_
+_Last updated: 2026-04-12 07:12 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15"]
-  line [10, 9, 6]
+  line [10, 9, 7]
 ```
 
 ## Traffic
