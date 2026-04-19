@@ -1,19 +1,19 @@
 # karlmdavis/ksoap2-android
 
-_Last updated: 2026-04-18 07:05 UTC_
+_Last updated: 2026-04-19 07:17 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16"]
-  line [6, 6, 3, 2]
+  line [6, 6, 3, 4]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16"]
-  line [6, 15, 3, 6]
+  line [6, 15, 3, 15]
 ```
 
 ```mermaid
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.9 | 1.8 | 1.3 | 1.6 |
-| 2026-04 | 0.6 | 0.9 | 1.6 | 1.9 |
+| 2026-04 | 0.6 | 1.3 | 1.4 | 1.7 |
 
 ## Current Totals
 

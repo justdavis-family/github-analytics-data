@@ -1,6 +1,6 @@
 # karlmdavis/kxml2
 
-_Last updated: 2026-04-18 07:05 UTC_
+_Last updated: 2026-04-19 07:17 UTC_
 
 ```mermaid
 xychart-beta
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.2 | 0.3 | 1.0 | 1.2 |
-| 2026-04 | 0.0 | 0.0 | 0.7 | 0.8 |
+| 2026-04 | 0.0 | 0.0 | 0.6 | 0.8 |
 
 ## Current Totals
 
