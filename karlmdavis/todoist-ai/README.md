@@ -1,6 +1,6 @@
 # karlmdavis/todoist-ai
 
-_Last updated: 2026-04-21 07:47 UTC_
+_Last updated: 2026-04-22 07:43 UTC_
 
 ```mermaid
 xychart-beta
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.1 | 0.1 | 0.0 | 0.0 |
-| 2026-04 | 0.1 | 0.1 | 0.2 | 0.2 |
+| 2026-04 | 0.0 | 0.0 | 0.2 | 0.2 |
 
 ## Current Totals
 
