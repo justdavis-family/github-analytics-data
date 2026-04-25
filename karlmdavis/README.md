@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-04-24 08:00 UTC_
+_Last updated: 2026-04-25 07:12 UTC_
 
 ## Unique Visitors per Day
 
@@ -54,7 +54,7 @@ _Last updated: 2026-04-24 08:00 UTC_
 | karlmdavis/todoist-ai | 0.1 | 0.0 |
 | karlmdavis/usgs-water-api-java | 0.0 | 0.0 |
 | karlmdavis/workstation-base-ansible-role | 0.0 | 0.0 |
-| karlmdavis/xmlpull | 0.7 | 0.0 |
+| karlmdavis/xmlpull | 0.7 | 0.1 |
 
 ## Views (avg/day)
 
@@ -123,7 +123,7 @@ _Last updated: 2026-04-24 08:00 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 |
 | karlmdavis/jessentials | 0.3 | 0.8 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.3 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.2 |
 | karlmdavis/justdavis-finances | 19.0 | 12.6 |
 | karlmdavis/justdavis-karl | 0.6 | 0.5 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.4 |
@@ -168,8 +168,8 @@ _Last updated: 2026-04-24 08:00 UTC_
 | karlmdavis/fhir-benchmarks | 1.0 | 1.9 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 |
-| karlmdavis/jessentials | 0.6 | 1.6 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.7 |
+| karlmdavis/jessentials | 0.6 | 1.5 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.8 |
 | karlmdavis/justdavis-finances | 49.4 | 33.6 |
 | karlmdavis/justdavis-karl | 0.9 | 0.5 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.4 |
