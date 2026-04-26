@@ -1,6 +1,6 @@
 # karlmdavis/justdavis-finances
 
-_Last updated: 2026-04-25 07:12 UTC_
+_Last updated: 2026-04-26 07:26 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17"]
-  line [155, 170, 46, 28, 62]
+  line [155, 170, 46, 28, 63]
 ```
 
 ## Traffic
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.1 | 0.1 | 19.0 | 49.4 |
-| 2026-04 | 0.1 | 0.1 | 12.6 | 33.6 |
+| 2026-04 | 0.1 | 0.1 | 12.1 | 32.2 |
 
 ## Current Totals
 
