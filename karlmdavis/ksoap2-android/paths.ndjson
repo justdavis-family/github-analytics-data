@@ -157,3 +157,13 @@
 {"date":"2026-04-26","path":"/karlmdavis/ksoap2-android/tree/master/ksoap2-android/src/test/java/org/ksoap2","title":"/tree/master/ksoap2-android/src/test/java/org/ksoap2","count":1,"uniques":1}
 {"date":"2026-04-26","path":"/karlmdavis/ksoap2-android/tree/master/ksoap2-samples","title":"/tree/master/ksoap2-samples","count":1,"uniques":1}
 {"date":"2026-04-26","path":"/karlmdavis/ksoap2-android/tree/master/ksoap2-samples/src/main/java/org/ksoap2/samples","title":"/tree/master/ksoap2-samples/src/main/java/org/ksoap2/samples","count":1,"uniques":1}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android","title":"Overview","count":12,"uniques":10}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/tree/master/ksoap2-android","title":"/tree/master/ksoap2-android","count":3,"uniques":2}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/tree/master/ksoap2-android/src","title":"/tree/master/ksoap2-android/src","count":2,"uniques":2}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/tree/master/ksoap2-base","title":"/tree/master/ksoap2-base","count":2,"uniques":1}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/blob/master/ksoap2-android-assembly/pom.xml","title":"/blob/master/ksoap2-android-assembly/pom.xml","count":1,"uniques":1}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/blob/master/ksoap2-android/src/main/java/org/ksoap2/transport/AndroidHttpTransport.java","title":"/blob/master/ksoap2-android/src/main/java/org/ksoap2/transport/AndroidHttpTransport.java","count":1,"uniques":1}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/blob/master/ksoap2-base/pom.xml","title":"/blob/master/ksoap2-base/pom.xml","count":1,"uniques":1}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/blob/master/ksoap2-samples/src/main/java/org/ksoap2/samples/quotes/StockQuoteDemo.java","title":"/blob/master/ksoap2-samples/src/main/java/org/ksoap2/samples/quotes/StockQuoteDemo.java","count":1,"uniques":1}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/branches","title":"/branches","count":1,"uniques":1}
+{"date":"2026-04-27","path":"/karlmdavis/ksoap2-android/issues","title":"/issues","count":1,"uniques":1}

@@ -1,6 +1,6 @@
 # karlmdavis/m2e-core
 
-_Last updated: 2026-04-26 07:26 UTC_
+_Last updated: 2026-04-27 08:21 UTC_
 
 ```mermaid
 xychart-beta
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.0 | 0.0 | 0.2 | 0.2 |
-| 2026-04 | 0.0 | 0.0 | 0.5 | 0.5 |
+| 2026-04 | 0.0 | 0.0 | 0.4 | 0.4 |
 
 ## Current Totals
 
