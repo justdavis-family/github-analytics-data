@@ -1,6 +1,6 @@
 # justdavis-family/justdavis
 
-_Last updated: 2026-04-30 08:18 UTC_
+_Last updated: 2026-05-01 08:09 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18"]
-  line [1, 110, 95, 135, 51, 4]
+  line [1, 110, 95, 135, 51, 11]
 ```
 
 ## Traffic
@@ -28,7 +28,7 @@ xychart-beta
 | Month | Unique Visitors/day | Views/day | Unique Clones/day | Clones/day |
 |---|---|---|---|---|
 | 2026-03 | 0.1 | 0.1 | 0.1 | 0.1 |
-| 2026-04 | 0.1 | 0.1 | 13.6 | 40.3 |
+| 2026-04 | 0.1 | 0.1 | 13.4 | 39.8 |
 
 ## Current Totals
 
