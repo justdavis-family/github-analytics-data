@@ -1,6 +1,6 @@
 # karlmdavis/todoist-ai
 
-_Last updated: 2026-05-03 07:59 UTC_
+_Last updated: 2026-05-04 08:26 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18"]
-  line [0, 2, 1, 1, 0, 0]
+  line [0, 2, 1, 1, 0, 1]
 ```
 
 ## Traffic
@@ -29,7 +29,7 @@ xychart-beta
 |---|---|---|---|---|
 | 2026-03 | 0.1 | 0.1 | 0.0 | 0.0 |
 | 2026-04 | 0.0 | 0.0 | 0.1 | 0.1 |
-| 2026-05 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 2026-05 | 0.0 | 0.0 | 0.3 | 0.3 |
 
 ## Current Totals
 
