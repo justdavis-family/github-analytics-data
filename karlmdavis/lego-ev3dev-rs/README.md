@@ -1,6 +1,6 @@
 # karlmdavis/lego-ev3dev-rs
 
-_Last updated: 2026-05-05 08:06 UTC_
+_Last updated: 2026-05-07 08:31 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19"]
-  line [7, 6, 5, 6, 6, 4, 1]
+  line [7, 6, 5, 6, 6, 4, 2]
 ```
 
 ## Traffic
@@ -29,7 +29,7 @@ xychart-beta
 |---|---|---|---|---|
 | 2026-03 | 0.0 | 0.0 | 1.0 | 1.2 |
 | 2026-04 | 0.0 | 0.0 | 0.7 | 0.7 |
-| 2026-05 | 0.0 | 0.0 | 1.0 | 1.0 |
+| 2026-05 | 0.0 | 0.0 | 0.8 | 0.8 |
 
 ## Current Totals
 
