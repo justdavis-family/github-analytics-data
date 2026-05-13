@@ -1,6 +1,6 @@
 # karlmdavis/m2e-core
 
-_Last updated: 2026-05-12 08:36 UTC_
+_Last updated: 2026-05-13 08:42 UTC_
 
 ```mermaid
 xychart-beta
