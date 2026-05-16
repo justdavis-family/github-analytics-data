@@ -1,6 +1,6 @@
 # karlmdavis/puppet-archive
 
-_Last updated: 2026-05-15 08:46 UTC_
+_Last updated: 2026-05-16 08:01 UTC_
 
 ```mermaid
 xychart-beta

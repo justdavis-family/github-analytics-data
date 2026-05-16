@@ -1,6 +1,6 @@
 # GitHub Analytics
 
-_Last updated: 2026-05-15 08:46 UTC_
+_Last updated: 2026-05-16 08:01 UTC_
 
 ## Unique Visitors per Day
 
@@ -111,7 +111,7 @@ _Last updated: 2026-05-15 08:46 UTC_
 | Repository | 2026-Q1 | 2026-Q2 |
 |---|---|---|
 | justdavis-family/github-analytics-data | 0.0 | 8.4 |
-| justdavis-family/justdavis | 0.1 | 11.6 |
+| justdavis-family/justdavis | 0.1 | 11.4 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 |
 | karlmdavis/ansible | 0.1 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 |
@@ -138,7 +138,7 @@ _Last updated: 2026-05-15 08:46 UTC_
 | karlmdavis/kxml2 | 1.0 | 0.7 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 |
 | karlmdavis/lego-ev3dev-rs | 1.0 | 0.8 |
-| karlmdavis/liquibase | 0.1 | 0.1 |
+| karlmdavis/liquibase | 0.1 | 0.2 |
 | karlmdavis/m2e-core | 0.2 | 0.5 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 |
 | karlmdavis/obsidian-operator | 0.6 | 0.9 |
@@ -159,7 +159,7 @@ _Last updated: 2026-05-15 08:46 UTC_
 | Repository | 2026-Q1 | 2026-Q2 |
 |---|---|---|
 | justdavis-family/github-analytics-data | 0.0 | 14.3 |
-| justdavis-family/justdavis | 0.1 | 38.1 |
+| justdavis-family/justdavis | 0.1 | 37.3 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 |
 | karlmdavis/ansible | 0.1 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 |
@@ -172,8 +172,8 @@ _Last updated: 2026-05-15 08:46 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.4 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.4 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.7 | 2.6 |
-| karlmdavis/fhir-benchmarks | 1.0 | 1.7 |
+| karlmdavis/dotfiles | 0.7 | 2.5 |
+| karlmdavis/fhir-benchmarks | 1.0 | 1.6 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.4 |
 | karlmdavis/jessentials | 0.6 | 1.0 |
@@ -182,11 +182,11 @@ _Last updated: 2026-05-15 08:46 UTC_
 | karlmdavis/justdavis-karl | 0.9 | 2.6 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.4 |
 | karlmdavis/kobjects | 0.2 | 0.9 |
-| karlmdavis/ksoap2-android | 1.6 | 2.1 |
-| karlmdavis/kxml2 | 1.2 | 0.9 |
+| karlmdavis/ksoap2-android | 1.6 | 2.2 |
+| karlmdavis/kxml2 | 1.2 | 0.8 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 |
 | karlmdavis/lego-ev3dev-rs | 1.2 | 0.8 |
-| karlmdavis/liquibase | 0.1 | 0.1 |
+| karlmdavis/liquibase | 0.1 | 0.2 |
 | karlmdavis/m2e-core | 0.2 | 2.3 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.4 |
 | karlmdavis/obsidian-operator | 0.9 | 1.4 |
@@ -230,7 +230,7 @@ _Last updated: 2026-05-15 08:46 UTC_
 | karlmdavis/justdavis-karl | 1 | 0 |
 | karlmdavis/justdavis-puppet | 0 | 0 |
 | karlmdavis/kobjects | 3 | 6 |
-| karlmdavis/ksoap2-android | 108 | 298 |
+| karlmdavis/ksoap2-android | 108 | 297 |
 | karlmdavis/kxml2 | 4 | 6 |
 | karlmdavis/ldap-plugin | 0 | 0 |
 | karlmdavis/lego-ev3dev-rs | 0 | 0 |
