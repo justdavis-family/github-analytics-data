@@ -1,6 +1,6 @@
 # karlmdavis/ansible-role-jenkins2
 
-_Last updated: 2026-05-19 09:39 UTC_
+_Last updated: 2026-05-20 09:28 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21"]
-  line [5, 7, 8, 6, 9, 10, 7, 7, 2]
+  line [5, 7, 8, 6, 9, 10, 7, 7, 3]
 ```
 
 ## Traffic
