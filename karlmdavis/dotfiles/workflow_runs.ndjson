@@ -1,2 +1,2 @@
-{"date":"2026-05-19","name":"Claude Code","path":".github/workflows/claude.yml","workflow_id":205338931,"status":"completed","conclusion":"skipped","completed_count":1,"incomplete_count":0,"avg_duration_seconds":2.0}
 {"date":"2026-05-19","name":"Claude Code Review","path":".github/workflows/claude-code-review.yml","workflow_id":205336882,"status":"completed","conclusion":"success","completed_count":1,"incomplete_count":0,"avg_duration_seconds":302.0}
+{"date":"2026-05-19","name":"Claude Code","path":".github/workflows/claude.yml","workflow_id":205338931,"status":"completed","conclusion":"skipped","completed_count":1,"incomplete_count":0,"avg_duration_seconds":2.0}
