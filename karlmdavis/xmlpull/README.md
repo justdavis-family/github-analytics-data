@@ -1,6 +1,6 @@
 # karlmdavis/xmlpull
 
-_Last updated: 2026-05-22 08:58 UTC_
+_Last updated: 2026-05-23 08:16 UTC_
 
 ```mermaid
 xychart-beta
@@ -29,7 +29,7 @@ xychart-beta
 |---|---|---|---|---|
 | 2026-03 | 0.7 | 1.7 | 0.2 | 0.2 |
 | 2026-04 | 0.1 | 0.3 | 0.3 | 0.3 |
-| 2026-05 | 0.4 | 0.9 | 0.9 | 1.6 |
+| 2026-05 | 0.4 | 0.8 | 0.9 | 1.5 |
 
 ## Current Totals
 
