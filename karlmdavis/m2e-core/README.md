@@ -1,6 +1,6 @@
 # karlmdavis/m2e-core
 
-_Last updated: 2026-05-24 08:26 UTC_
+_Last updated: 2026-05-25 10:00 UTC_
 
 ```mermaid
 xychart-beta
@@ -29,7 +29,7 @@ xychart-beta
 |---|---|---|---|---|
 | 2026-03 | 0.0 | 0.0 | 0.2 | 0.2 |
 | 2026-04 | 0.0 | 0.0 | 0.4 | 0.4 |
-| 2026-05 | 0.0 | 0.0 | 0.5 | 4.0 |
+| 2026-05 | 0.0 | 0.0 | 0.5 | 3.9 |
 
 ## Current Totals
 
