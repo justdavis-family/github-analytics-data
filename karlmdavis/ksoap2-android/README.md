@@ -1,6 +1,6 @@
 # karlmdavis/ksoap2-android
 
-_Last updated: 2026-05-27 09:41 UTC_
+_Last updated: 2026-05-28 09:58 UTC_
 
 ```mermaid
 xychart-beta
@@ -29,7 +29,7 @@ xychart-beta
 |---|---|---|---|---|
 | 2026-03 | 0.9 | 1.8 | 1.3 | 1.6 |
 | 2026-04 | 0.7 | 2.5 | 1.4 | 2.1 |
-| 2026-05 | 0.4 | 0.5 | 1.6 | 2.2 |
+| 2026-05 | 0.4 | 0.5 | 1.5 | 2.1 |
 
 ## Current Totals
 

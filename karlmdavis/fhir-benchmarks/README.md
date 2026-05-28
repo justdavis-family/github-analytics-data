@@ -1,6 +1,6 @@
 # karlmdavis/fhir-benchmarks
 
-_Last updated: 2026-05-27 09:41 UTC_
+_Last updated: 2026-05-28 09:58 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22"]
-  line [5, 7, 12, 11, 5, 8, 10, 6, 7, 0]
+  line [5, 7, 12, 11, 5, 8, 10, 6, 7, 2]
 ```
 
 ## Traffic

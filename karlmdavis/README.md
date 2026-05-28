@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-05-27 09:41 UTC_
+_Last updated: 2026-05-28 09:58 UTC_
 
 ## Unique Visitors per Day
 
@@ -36,7 +36,7 @@ _Last updated: 2026-05-27 09:41 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.0 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.1 |
-| karlmdavis/ksoap2-android | 0.9 | 0.6 |
+| karlmdavis/ksoap2-android | 0.9 | 0.5 |
 | karlmdavis/kxml2 | 0.2 | 0.1 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 |
@@ -118,10 +118,10 @@ _Last updated: 2026-05-27 09:41 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.4 | 4.7 |
+| karlmdavis/dotfiles | 0.4 | 5.2 |
 | karlmdavis/fhir-benchmarks | 0.9 | 1.1 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
-| karlmdavis/hello-rust-actix | 0.2 | 0.3 |
+| karlmdavis/hello-rust-actix | 0.2 | 0.4 |
 | karlmdavis/jessentials | 0.3 | 0.6 |
 | karlmdavis/justdavis-ansible | 0.3 | 1.7 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 |
@@ -144,7 +144,7 @@ _Last updated: 2026-05-27 09:41 UTC_
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 |
 | karlmdavis/test-repo-for-move | 0.3 | 0.3 |
 | karlmdavis/todoist-ai | 0.0 | 0.1 |
-| karlmdavis/usgs-water-api-java | 1.4 | 1.3 |
+| karlmdavis/usgs-water-api-java | 1.4 | 1.4 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 |
 | karlmdavis/xmlpull | 0.2 | 0.5 |
 
@@ -161,25 +161,25 @@ _Last updated: 2026-05-27 09:41 UTC_
 | karlmdavis/ansible-role-ldap | 0.1 | 0.1 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.4 | 0.7 |
 | karlmdavis/ansible-roles | 0.2 | 0.0 |
-| karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
+| karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.4 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.7 | 10.8 |
+| karlmdavis/dotfiles | 0.7 | 11.9 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.5 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
-| karlmdavis/hello-rust-actix | 0.2 | 0.3 |
+| karlmdavis/hello-rust-actix | 0.2 | 0.4 |
 | karlmdavis/jessentials | 0.6 | 0.9 |
-| karlmdavis/justdavis-ansible | 0.3 | 4.2 |
+| karlmdavis/justdavis-ansible | 0.3 | 4.1 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 |
 | karlmdavis/justdavis-karl | 0.9 | 2.1 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.4 |
-| karlmdavis/kobjects | 0.2 | 0.8 |
+| karlmdavis/kobjects | 0.2 | 0.7 |
 | karlmdavis/ksoap2-android | 1.6 | 2.1 |
 | karlmdavis/kxml2 | 1.2 | 0.8 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 |
 | karlmdavis/lego-ev3dev-rs | 1.2 | 0.8 |
 | karlmdavis/liquibase | 0.1 | 0.1 |
-| karlmdavis/m2e-core | 0.2 | 1.9 |
+| karlmdavis/m2e-core | 0.2 | 1.8 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 |
 | karlmdavis/obsidian-operator | 0.9 | 1.4 |
 | karlmdavis/perfect-note | 0.6 | 0.3 |
