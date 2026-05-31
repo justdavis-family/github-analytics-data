@@ -1,6 +1,6 @@
 # karlmdavis/xmlpull
 
-_Last updated: 2026-05-30 08:25 UTC_
+_Last updated: 2026-05-31 08:42 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Week"
   x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22"]
-  line [1, 2, 3, 3, 3, 3, 5, 8, 4, 2]
+  line [1, 2, 3, 3, 3, 3, 5, 8, 4, 4]
 ```
 
 ## Traffic
