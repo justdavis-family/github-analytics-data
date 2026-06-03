@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-06-02 10:19 UTC_
+_Last updated: 2026-06-03 10:54 UTC_
 
 ## Unique Visitors per Day
 
@@ -118,15 +118,15 @@ _Last updated: 2026-06-02 10:19 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.4 | 5.8 |
+| karlmdavis/dotfiles | 0.4 | 5.9 |
 | karlmdavis/fhir-benchmarks | 0.9 | 1.5 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
-| karlmdavis/hello-rust-actix | 0.2 | 0.4 |
+| karlmdavis/hello-rust-actix | 0.2 | 0.3 |
 | karlmdavis/jessentials | 0.3 | 0.5 |
 | karlmdavis/justdavis-ansible | 0.3 | 1.7 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 |
-| karlmdavis/justdavis-karl | 0.6 | 0.5 |
-| karlmdavis/justdavis-puppet | 0.4 | 0.4 |
+| karlmdavis/justdavis-karl | 0.6 | 0.4 |
+| karlmdavis/justdavis-puppet | 0.4 | 0.3 |
 | karlmdavis/kobjects | 0.2 | 0.4 |
 | karlmdavis/ksoap2-android | 1.3 | 1.4 |
 | karlmdavis/kxml2 | 1.0 | 0.7 |
@@ -139,7 +139,7 @@ _Last updated: 2026-06-02 10:19 UTC_
 | karlmdavis/perfect-note | 0.3 | 0.3 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 |
-| karlmdavis/rps-tourney | 0.2 | 0.4 |
+| karlmdavis/rps-tourney | 0.2 | 0.5 |
 | karlmdavis/sample-maven-and-rcp | 0.1 | 0.3 |
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 |
 | karlmdavis/test-repo-for-move | 0.3 | 0.3 |
@@ -161,18 +161,18 @@ _Last updated: 2026-06-02 10:19 UTC_
 | karlmdavis/ansible-role-ldap | 0.1 | 0.1 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.4 | 0.7 |
 | karlmdavis/ansible-roles | 0.2 | 0.1 |
-| karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.4 |
+| karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.7 | 13.9 |
-| karlmdavis/fhir-benchmarks | 1.0 | 2.1 |
+| karlmdavis/dotfiles | 0.7 | 14.3 |
+| karlmdavis/fhir-benchmarks | 1.0 | 2.0 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
-| karlmdavis/hello-rust-actix | 0.2 | 0.4 |
+| karlmdavis/hello-rust-actix | 0.2 | 0.3 |
 | karlmdavis/jessentials | 0.6 | 0.8 |
 | karlmdavis/justdavis-ansible | 0.3 | 4.2 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 |
-| karlmdavis/justdavis-karl | 0.9 | 2.0 |
-| karlmdavis/justdavis-puppet | 0.4 | 0.4 |
+| karlmdavis/justdavis-karl | 0.9 | 1.9 |
+| karlmdavis/justdavis-puppet | 0.4 | 0.3 |
 | karlmdavis/kobjects | 0.2 | 0.8 |
 | karlmdavis/ksoap2-android | 1.6 | 2.0 |
 | karlmdavis/kxml2 | 1.2 | 0.8 |
@@ -185,7 +185,7 @@ _Last updated: 2026-06-02 10:19 UTC_
 | karlmdavis/perfect-note | 0.6 | 0.3 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 |
-| karlmdavis/rps-tourney | 0.2 | 0.5 |
+| karlmdavis/rps-tourney | 0.2 | 0.6 |
 | karlmdavis/sample-maven-and-rcp | 0.1 | 0.3 |
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 |
 | karlmdavis/test-repo-for-move | 0.3 | 0.3 |
@@ -210,7 +210,7 @@ _Last updated: 2026-06-02 10:19 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0 | 0 |
 | karlmdavis/can-i-kayak-baltimore | 0 | 0 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0 | 0 |
-| karlmdavis/dotfiles | 0 | 0 |
+| karlmdavis/dotfiles | 1 | 0 |
 | karlmdavis/fhir-benchmarks | 9 | 3 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0 | 0 |
 | karlmdavis/hello-rust-actix | 0 | 0 |
