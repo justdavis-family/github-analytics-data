@@ -1,26 +1,26 @@
 # justdavis-family/github-analytics-data
 
-_Last updated: 2026-06-15 12:08 UTC_
+_Last updated: 2026-06-16 11:06 UTC_
 
 ```mermaid
 xychart-beta
-  title "Unique Visitors per Week"
-  x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22", "2026-W23", "2026-W24"]
-  line [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  title "Unique Visitors per Month"
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
+  line [0, 1, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
-  title "Views per Week"
-  x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22", "2026-W23", "2026-W24"]
-  line [0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0]
+  title "Views per Month"
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
+  line [0, 1, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
-  title "Unique Clones per Week"
-  x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22", "2026-W23", "2026-W24"]
-  line [0, 0, 65, 68, 93, 60, 57, 64, 54, 41, 49, 47]
+  title "Unique Clones per Month"
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
+  line [0, 262, 240, 101]
 ```
 
 ## Traffic
@@ -30,7 +30,7 @@ xychart-beta
 | 2026-03 | 0.0 | 0.0 | 0.0 | 0.0 |
 | 2026-04 | 0.0 | 0.0 | 8.7 | 15.1 |
 | 2026-05 | 0.0 | 0.0 | 7.7 | 12.6 |
-| 2026-06 | 0.0 | 0.0 | 6.9 | 11.3 |
+| 2026-06 | 0.0 | 0.0 | 6.7 | 10.9 |
 
 ## Current Totals
 

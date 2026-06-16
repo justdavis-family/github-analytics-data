@@ -1,26 +1,26 @@
 # karlmdavis/hello-rust-actix
 
-_Last updated: 2026-06-15 12:08 UTC_
+_Last updated: 2026-06-16 11:06 UTC_
 
 ```mermaid
 xychart-beta
-  title "Unique Visitors per Week"
-  x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22", "2026-W23", "2026-W24"]
-  line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  title "Unique Visitors per Month"
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
+  line [0, 0, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
-  title "Views per Week"
-  x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22", "2026-W23", "2026-W24"]
-  line [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+  title "Views per Month"
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
+  line [0, 0, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
-  title "Unique Clones per Week"
-  x-axis ["2026-W13", "2026-W14", "2026-W15", "2026-W16", "2026-W17", "2026-W18", "2026-W19", "2026-W20", "2026-W21", "2026-W22", "2026-W23", "2026-W24"]
-  line [1, 2, 2, 2, 2, 3, 4, 2, 1, 5, 3, 2]
+  title "Unique Clones per Month"
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
+  line [2, 8, 14, 5]
 ```
 
 ## Traffic
@@ -30,7 +30,7 @@ xychart-beta
 | 2026-03 | 0.0 | 0.0 | 0.2 | 0.2 |
 | 2026-04 | 0.0 | 0.0 | 0.3 | 0.3 |
 | 2026-05 | 0.0 | 0.0 | 0.5 | 0.5 |
-| 2026-06 | 0.0 | 0.0 | 0.4 | 0.4 |
+| 2026-06 | 0.0 | 0.0 | 0.3 | 0.4 |
 
 ## Current Totals
 
