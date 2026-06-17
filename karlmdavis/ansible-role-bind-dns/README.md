@@ -1,6 +1,6 @@
 # karlmdavis/ansible-role-bind-dns
 
-_Last updated: 2026-06-16 11:06 UTC_
+_Last updated: 2026-06-17 10:51 UTC_
 
 ```mermaid
 xychart-beta
@@ -30,7 +30,7 @@ xychart-beta
 | 2026-03 | 0.2 | 0.2 | 0.4 | 0.4 |
 | 2026-04 | 0.1 | 0.1 | 0.5 | 0.5 |
 | 2026-05 | 0.0 | 0.0 | 0.4 | 0.4 |
-| 2026-06 | 0.1 | 0.1 | 0.5 | 0.5 |
+| 2026-06 | 0.1 | 0.1 | 0.4 | 0.5 |
 
 ## Current Totals
 
