@@ -1,6 +1,6 @@
 # justdavis-family
 
-_Last updated: 2026-06-18 10:18 UTC_
+_Last updated: 2026-06-19 10:23 UTC_
 
 ## Unique Visitors per Day
 
@@ -29,14 +29,14 @@ _Last updated: 2026-06-18 10:18 UTC_
 | Repository | 2026-Q1 | 2026-Q2 |
 |---|---|---|
 | justdavis-family/github-analytics-data | 0.0 | 7.9 |
-| justdavis-family/justdavis | 0.1 | 12.2 |
+| justdavis-family/justdavis | 0.1 | 12.1 |
 
 ## Clones (avg/day)
 
 | Repository | 2026-Q1 | 2026-Q2 |
 |---|---|---|
 | justdavis-family/github-analytics-data | 0.0 | 13.2 |
-| justdavis-family/justdavis | 0.1 | 35.9 |
+| justdavis-family/justdavis | 0.1 | 35.7 |
 
 ## Current Totals
 

@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-06-18 10:18 UTC_
+_Last updated: 2026-06-19 10:23 UTC_
 
 ## Unique Visitors per Day
 
@@ -131,7 +131,7 @@ _Last updated: 2026-06-18 10:18 UTC_
 | karlmdavis/ksoap2-android | 1.3 | 1.3 |
 | karlmdavis/kxml2 | 1.0 | 0.8 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 |
-| karlmdavis/lego-ev3dev-rs | 1.0 | 0.8 |
+| karlmdavis/lego-ev3dev-rs | 1.0 | 0.7 |
 | karlmdavis/liquibase | 0.1 | 0.1 |
 | karlmdavis/m2e-core | 0.2 | 0.4 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.2 |
@@ -164,12 +164,12 @@ _Last updated: 2026-06-18 10:18 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.7 | 13.4 |
+| karlmdavis/dotfiles | 0.7 | 13.5 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.9 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.4 |
 | karlmdavis/jessentials | 0.6 | 0.8 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.6 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.5 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 |
 | karlmdavis/justdavis-karl | 0.9 | 1.6 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 |
@@ -181,7 +181,7 @@ _Last updated: 2026-06-18 10:18 UTC_
 | karlmdavis/liquibase | 0.1 | 0.1 |
 | karlmdavis/m2e-core | 0.2 | 1.4 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 |
-| karlmdavis/obsidian-operator | 0.9 | 1.6 |
+| karlmdavis/obsidian-operator | 0.9 | 1.5 |
 | karlmdavis/perfect-note | 0.6 | 0.3 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 |
