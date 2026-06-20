@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-06-19 10:23 UTC_
+_Last updated: 2026-06-20 08:52 UTC_
 
 ## Unique Visitors per Day
 
@@ -118,7 +118,7 @@ _Last updated: 2026-06-19 10:23 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.4 | 5.5 |
+| karlmdavis/dotfiles | 0.4 | 5.7 |
 | karlmdavis/fhir-benchmarks | 0.9 | 1.4 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 |
@@ -127,7 +127,7 @@ _Last updated: 2026-06-19 10:23 UTC_
 | karlmdavis/justdavis-finances | 19.0 | 10.2 |
 | karlmdavis/justdavis-karl | 0.6 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 |
-| karlmdavis/kobjects | 0.2 | 0.4 |
+| karlmdavis/kobjects | 0.2 | 0.3 |
 | karlmdavis/ksoap2-android | 1.3 | 1.3 |
 | karlmdavis/kxml2 | 1.0 | 0.8 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 |
@@ -142,7 +142,7 @@ _Last updated: 2026-06-19 10:23 UTC_
 | karlmdavis/rps-tourney | 0.2 | 0.5 |
 | karlmdavis/sample-maven-and-rcp | 0.1 | 0.3 |
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 |
-| karlmdavis/test-repo-for-move | 0.3 | 0.3 |
+| karlmdavis/test-repo-for-move | 0.3 | 0.2 |
 | karlmdavis/todoist-ai | 0.0 | 0.1 |
 | karlmdavis/usgs-water-api-java | 1.4 | 1.3 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 |
@@ -156,7 +156,7 @@ _Last updated: 2026-06-19 10:23 UTC_
 | karlmdavis/ansible | 0.1 | 0.1 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 |
 | karlmdavis/ansible-role-acmetool | 0.1 | 0.1 |
-| karlmdavis/ansible-role-bind-dns | 0.4 | 0.4 |
+| karlmdavis/ansible-role-bind-dns | 0.4 | 0.5 |
 | karlmdavis/ansible-role-jenkins2 | 0.7 | 1.1 |
 | karlmdavis/ansible-role-ldap | 0.1 | 0.1 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.4 | 0.7 |
@@ -164,10 +164,10 @@ _Last updated: 2026-06-19 10:23 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.7 | 13.5 |
+| karlmdavis/dotfiles | 0.7 | 14.1 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.9 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
-| karlmdavis/hello-rust-actix | 0.2 | 0.4 |
+| karlmdavis/hello-rust-actix | 0.2 | 0.3 |
 | karlmdavis/jessentials | 0.6 | 0.8 |
 | karlmdavis/justdavis-ansible | 0.3 | 3.5 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 |
