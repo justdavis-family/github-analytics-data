@@ -1,19 +1,19 @@
 # karlmdavis/ansible-role-ldap
 
-_Last updated: 2026-06-25 08:58 UTC_
+_Last updated: 2026-06-26 09:21 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
-  line [0, 0, 0, 1]
+  line [0, 0, 0, 2]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
-  line [0, 0, 0, 2]
+  line [0, 0, 0, 6]
 ```
 
 ```mermaid
@@ -30,7 +30,7 @@ xychart-beta
 | 2026-03 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-04 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-05 | 0.0 | 0.0 | 0.1 | 0.1 |
-| 2026-06 | 0.0 | 0.1 | 0.2 | 0.2 |
+| 2026-06 | 0.1 | 0.2 | 0.2 | 0.2 |
 
 ## Current Totals
 

@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-06-25 08:58 UTC_
+_Last updated: 2026-06-26 09:21 UTC_
 
 ## Unique Visitors per Day
 
@@ -36,7 +36,7 @@ _Last updated: 2026-06-25 08:58 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.1 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.1 |
-| karlmdavis/ksoap2-android | 0.9 | 0.6 |
+| karlmdavis/ksoap2-android | 0.9 | 0.5 |
 | karlmdavis/kxml2 | 0.2 | 0.0 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 |
@@ -66,7 +66,7 @@ _Last updated: 2026-06-25 08:58 UTC_
 | karlmdavis/ansible-role-acmetool | 0.0 | 0.0 |
 | karlmdavis/ansible-role-bind-dns | 0.2 | 0.1 |
 | karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 |
-| karlmdavis/ansible-role-ldap | 0.0 | 0.0 |
+| karlmdavis/ansible-role-ldap | 0.0 | 0.1 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 |
 | karlmdavis/ansible-roles | 0.0 | 0.0 |
 | karlmdavis/bbonfhir-dev-infra-docker | 0.0 | 0.0 |
@@ -100,7 +100,7 @@ _Last updated: 2026-06-25 08:58 UTC_
 | karlmdavis/todoist-ai | 0.1 | 0.0 |
 | karlmdavis/usgs-water-api-java | 0.0 | 0.0 |
 | karlmdavis/workstation-base-ansible-role | 0.0 | 0.0 |
-| karlmdavis/xmlpull | 1.7 | 0.4 |
+| karlmdavis/xmlpull | 1.7 | 0.3 |
 
 ## Unique Clones (avg/day)
 
@@ -133,7 +133,7 @@ _Last updated: 2026-06-25 08:58 UTC_
 | karlmdavis/ldap-plugin | 0.0 | 0.1 |
 | karlmdavis/lego-ev3dev-rs | 1.0 | 0.7 |
 | karlmdavis/liquibase | 0.1 | 0.1 |
-| karlmdavis/m2e-core | 0.2 | 0.4 |
+| karlmdavis/m2e-core | 0.2 | 0.3 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.2 |
 | karlmdavis/obsidian-operator | 0.6 | 1.0 |
 | karlmdavis/perfect-note | 0.3 | 0.3 |
@@ -164,17 +164,17 @@ _Last updated: 2026-06-25 08:58 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 |
-| karlmdavis/dotfiles | 0.7 | 13.4 |
+| karlmdavis/dotfiles | 0.7 | 13.3 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.8 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 |
-| karlmdavis/hello-rust-actix | 0.2 | 0.4 |
+| karlmdavis/hello-rust-actix | 0.2 | 0.3 |
 | karlmdavis/jessentials | 0.6 | 0.8 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.5 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.4 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 |
-| karlmdavis/justdavis-karl | 0.9 | 1.6 |
+| karlmdavis/justdavis-karl | 0.9 | 1.5 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 |
 | karlmdavis/kobjects | 0.2 | 0.6 |
-| karlmdavis/ksoap2-android | 1.6 | 1.8 |
+| karlmdavis/ksoap2-android | 1.6 | 1.7 |
 | karlmdavis/kxml2 | 1.2 | 1.0 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 |
 | karlmdavis/lego-ev3dev-rs | 1.2 | 0.8 |
