@@ -1,6 +1,6 @@
 # karlmdavis/lego-ev3dev-rs
 
-_Last updated: 2026-06-28 08:48 UTC_
+_Last updated: 2026-06-29 10:53 UTC_
 
 ```mermaid
 xychart-beta
@@ -30,7 +30,7 @@ xychart-beta
 | 2026-03 | 0.0 | 0.0 | 1.0 | 1.2 |
 | 2026-04 | 0.0 | 0.0 | 0.7 | 0.7 |
 | 2026-05 | 0.0 | 0.0 | 0.8 | 0.8 |
-| 2026-06 | 0.0 | 0.0 | 0.6 | 0.7 |
+| 2026-06 | 0.0 | 0.0 | 0.6 | 0.6 |
 
 ## Current Totals
 
