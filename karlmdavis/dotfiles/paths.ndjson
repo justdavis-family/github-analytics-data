@@ -27,3 +27,13 @@
 {"date":"2026-07-02","path":"/karlmdavis/dotfiles","title":"Overview","count":1,"uniques":1}
 {"date":"2026-07-02","path":"/karlmdavis/dotfiles/blob/1be78fc34915fbac0587224f8a15fbaef74111b9/private_dot_claude/create_settings.local.json","title":"/blob/1be78fc34915fbac0587224f8a15fbaef74111b9/private_dot_claude/create_settings.local.json","count":1,"uniques":1}
 {"date":"2026-07-02","path":"/karlmdavis/dotfiles/blob/be253410c3cb1a03f96c381c60bdd43d75b58670/.chezmoitemplates/shell-env.sh","title":"/blob/be253410c3cb1a03f96c381c60bdd43d75b58670/.chezmoitemplates/shell-env.sh","count":1,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/commits/master","title":"/commits/master","count":3,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles","title":"Overview","count":2,"uniques":2}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/blob/master/private_dot_claude/modify_settings.json.tmpl","title":"/blob/master/private_dot_claude/modify_settings.json.tmpl","count":2,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/blob/master/private_dot_claude/plugins/modify_known_marketplaces.json","title":"/blob/master/private_dot_claude/plugins/modify_known_marketplaces.json","count":2,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/tree/master","title":"/tree/master","count":2,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/blob/1be78fc34915fbac0587224f8a15fbaef74111b9/private_dot_claude/create_settings.local.json","title":"/blob/1be78fc34915fbac0587224f8a15fbaef74111b9/private_dot_claude/create_settings.local.json","count":1,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/blob/be253410c3cb1a03f96c381c60bdd43d75b58670/.chezmoitemplates/shell-env.sh","title":"/blob/be253410c3cb1a03f96c381c60bdd43d75b58670/.chezmoitemplates/shell-env.sh","count":1,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/blob/master/.chezmoidata/system_packages_autoinstall.yaml","title":"/blob/master/.chezmoidata/system_packages_autoinstall.yaml","count":1,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/blob/master/.chezmoiscripts/run_once_after_2026-06-02-cleanup-hud-sh.sh.tmpl","title":"/blob/master/.chezmoiscripts/run_once_after_2026-06-02-cleanup-hud-sh.sh.tmpl","count":1,"uniques":1}
+{"date":"2026-07-03","path":"/karlmdavis/dotfiles/blob/master/.chezmoitemplates/config.nu","title":"/blob/master/.chezmoitemplates/config.nu","count":1,"uniques":1}
