@@ -1,6 +1,6 @@
 # karlmdavis/ldap-plugin
 
-_Last updated: 2026-07-09 09:39 UTC_
+_Last updated: 2026-07-10 09:30 UTC_
 
 ```mermaid
 xychart-beta

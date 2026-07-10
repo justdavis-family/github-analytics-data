@@ -1,6 +1,6 @@
 # karlmdavis/ansible-role-bind-dns
 
-_Last updated: 2026-07-09 09:39 UTC_
+_Last updated: 2026-07-10 09:30 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
-  line [4, 15, 12, 13, 1]
+  line [4, 15, 12, 13, 2]
 ```
 
 ## Traffic
@@ -31,7 +31,7 @@ xychart-beta
 | 2026-04 | 0.1 | 0.1 | 0.5 | 0.5 |
 | 2026-05 | 0.0 | 0.0 | 0.4 | 0.4 |
 | 2026-06 | 0.1 | 0.1 | 0.4 | 0.5 |
-| 2026-07 | 0.0 | 0.0 | 0.1 | 0.1 |
+| 2026-07 | 0.0 | 0.0 | 0.2 | 0.2 |
 
 ## Current Totals
 
