@@ -1,26 +1,26 @@
 # karlmdavis/puppet-archive
 
-_Last updated: 2026-07-13 09:21 UTC_
+_Last updated: 2026-07-14 07:59 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Month"
-  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
-  line [0, 0, 0, 0]
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
+  line [0, 0, 0, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Month"
-  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
-  line [0, 0, 0, 0]
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
+  line [0, 0, 0, 0, 0]
 ```
 
 ```mermaid
 xychart-beta
   title "Unique Clones per Month"
-  x-axis ["2026-03", "2026-04", "2026-05", "2026-06"]
-  line [1, 2, 4, 3]
+  x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
+  line [1, 2, 4, 3, 0]
 ```
 
 ## Traffic
@@ -31,6 +31,7 @@ xychart-beta
 | 2026-04 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-05 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-06 | 0.0 | 0.0 | 0.1 | 0.1 |
+| 2026-07 | 0.0 | 0.0 | 0.0 | 0.0 |
 
 ## Current Totals
 
