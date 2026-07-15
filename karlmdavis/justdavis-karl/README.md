@@ -1,6 +1,6 @@
 # karlmdavis/justdavis-karl
 
-_Last updated: 2026-07-14 07:59 UTC_
+_Last updated: 2026-07-15 08:04 UTC_
 
 ```mermaid
 xychart-beta
@@ -31,7 +31,7 @@ xychart-beta
 | 2026-04 | 0.0 | 0.0 | 0.4 | 0.4 |
 | 2026-05 | 0.1 | 0.1 | 0.5 | 3.5 |
 | 2026-06 | 0.1 | 0.1 | 0.4 | 0.5 |
-| 2026-07 | 0.2 | 0.5 | 0.2 | 0.2 |
+| 2026-07 | 0.1 | 0.4 | 0.2 | 0.2 |
 
 ## Current Totals
 
