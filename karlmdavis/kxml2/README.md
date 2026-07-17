@@ -1,6 +1,6 @@
 # karlmdavis/kxml2
 
-_Last updated: 2026-07-16 08:08 UTC_
+_Last updated: 2026-07-17 08:05 UTC_
 
 ```mermaid
 xychart-beta
