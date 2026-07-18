@@ -1,6 +1,6 @@
 # karlmdavis/rps-tourney
 
-_Last updated: 2026-07-17 08:05 UTC_
+_Last updated: 2026-07-18 07:45 UTC_
 
 ```mermaid
 xychart-beta
