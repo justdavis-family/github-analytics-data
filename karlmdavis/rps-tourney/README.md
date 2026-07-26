@@ -1,26 +1,26 @@
 # karlmdavis/rps-tourney
 
-_Last updated: 2026-07-25 08:02 UTC_
+_Last updated: 2026-07-26 08:22 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
-  line [3, 3, 1, 13, 3]
+  line [3, 3, 1, 13, 4]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
-  line [3, 3, 2, 13, 3]
+  line [3, 3, 2, 13, 4]
 ```
 
 ```mermaid
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07"]
-  line [2, 8, 19, 14, 7]
+  line [2, 8, 19, 14, 8]
 ```
 
 ## Traffic
@@ -31,7 +31,7 @@ xychart-beta
 | 2026-04 | 0.1 | 0.1 | 0.3 | 0.3 |
 | 2026-05 | 0.0 | 0.1 | 0.6 | 0.6 |
 | 2026-06 | 0.4 | 0.4 | 0.5 | 0.6 |
-| 2026-07 | 0.1 | 0.1 | 0.3 | 0.3 |
+| 2026-07 | 0.2 | 0.2 | 0.3 | 0.3 |
 
 ## Current Totals
 
