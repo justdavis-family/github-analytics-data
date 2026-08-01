@@ -1,6 +1,6 @@
 # karlmdavis/xmlpull
 
-_Last updated: 2026-07-31 08:45 UTC_
+_Last updated: 2026-08-01 08:16 UTC_
 
 ```mermaid
 xychart-beta
