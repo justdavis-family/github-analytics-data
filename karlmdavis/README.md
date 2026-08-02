@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-08-01 08:16 UTC_
+_Last updated: 2026-08-02 08:20 UTC_
 
 ## Unique Visitors per Day
 
@@ -72,7 +72,7 @@ _Last updated: 2026-08-01 08:16 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.0 | 0.0 | 0.0 |
 | karlmdavis/can-i-kayak-baltimore | 0.0 | 0.0 | 0.0 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.0 | 0.0 | 0.0 |
-| karlmdavis/dotfiles | 0.0 | 0.0 | 2.0 |
+| karlmdavis/dotfiles | 0.0 | 0.0 | 1.9 |
 | karlmdavis/fhir-benchmarks | 0.2 | 0.2 | 0.6 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.0 | 0.0 | 0.0 |
 | karlmdavis/hello-rust-actix | 0.0 | 0.0 | 0.0 |
@@ -135,7 +135,7 @@ _Last updated: 2026-08-01 08:16 UTC_
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 |
 | karlmdavis/m2e-core | 0.2 | 0.3 | 0.2 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.2 | 0.1 |
-| karlmdavis/obsidian-operator | 0.6 | 0.9 | 0.6 |
+| karlmdavis/obsidian-operator | 0.6 | 0.9 | 0.7 |
 | karlmdavis/perfect-note | 0.3 | 0.3 | 0.1 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 |
@@ -181,7 +181,7 @@ _Last updated: 2026-08-01 08:16 UTC_
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 |
 | karlmdavis/m2e-core | 0.2 | 1.3 | 0.2 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 | 0.1 |
-| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.2 |
+| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.3 |
 | karlmdavis/perfect-note | 0.6 | 0.3 | 0.1 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 |
@@ -192,7 +192,7 @@ _Last updated: 2026-08-01 08:16 UTC_
 | karlmdavis/todoist-ai | 0.0 | 0.1 | 0.2 |
 | karlmdavis/usgs-water-api-java | 3.4 | 3.3 | 3.2 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 | 0.1 |
-| karlmdavis/xmlpull | 0.2 | 0.6 | 3.0 |
+| karlmdavis/xmlpull | 0.2 | 0.6 | 2.9 |
 
 ## Current Totals
 
