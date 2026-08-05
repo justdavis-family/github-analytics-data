@@ -1,6 +1,6 @@
 # karlmdavis/ksoap2-android
 
-_Last updated: 2026-08-04 08:32 UTC_
+_Last updated: 2026-08-05 08:31 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08"]
-  line [12, 43, 45, 23, 40, 2]
+  line [12, 43, 45, 23, 40, 7]
 ```
 
 ## Traffic
@@ -32,7 +32,7 @@ xychart-beta
 | 2026-05 | 0.5 | 0.6 | 1.5 | 1.9 |
 | 2026-06 | 0.5 | 1.4 | 0.8 | 0.9 |
 | 2026-07 | 0.4 | 1.4 | 1.3 | 1.4 |
-| 2026-08 | 0.7 | 0.7 | 0.7 | 1.0 |
+| 2026-08 | 0.5 | 0.5 | 1.8 | 2.2 |
 
 ## Current Totals
 
