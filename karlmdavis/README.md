@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-08-06 08:31 UTC_
+_Last updated: 2026-08-07 07:11 UTC_
 
 ## Unique Visitors per Day
 
@@ -111,7 +111,7 @@ _Last updated: 2026-08-06 08:31 UTC_
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible-role-bind-dns | 0.4 | 0.4 | 0.3 |
-| karlmdavis/ansible-role-jenkins2 | 0.7 | 0.9 | 0.4 |
+| karlmdavis/ansible-role-jenkins2 | 0.7 | 0.9 | 0.5 |
 | karlmdavis/ansible-role-ldap | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.4 | 0.6 | 0.2 |
 | karlmdavis/ansible-roles | 0.2 | 0.1 | 0.1 |
@@ -123,9 +123,9 @@ _Last updated: 2026-08-06 08:31 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 0.6 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 0.5 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
-| karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.2 |
+| karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.3 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
 | karlmdavis/kobjects | 0.2 | 0.3 | 0.3 |
 | karlmdavis/ksoap2-android | 1.3 | 1.2 | 1.3 |
@@ -171,7 +171,7 @@ _Last updated: 2026-08-06 08:31 UTC_
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.5 |
 | karlmdavis/justdavis-ansible | 0.3 | 3.3 | 0.8 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
-| karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.2 |
+| karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.3 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
 | karlmdavis/kobjects | 0.2 | 0.6 | 0.3 |
 | karlmdavis/ksoap2-android | 1.6 | 1.7 | 1.5 |
@@ -192,7 +192,7 @@ _Last updated: 2026-08-06 08:31 UTC_
 | karlmdavis/todoist-ai | 0.0 | 0.1 | 0.1 |
 | karlmdavis/usgs-water-api-java | 3.4 | 3.3 | 3.2 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 | 0.1 |
-| karlmdavis/xmlpull | 0.2 | 0.6 | 2.6 |
+| karlmdavis/xmlpull | 0.2 | 0.6 | 2.5 |
 
 ## Current Totals
 
