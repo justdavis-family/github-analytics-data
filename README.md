@@ -1,6 +1,6 @@
 # GitHub Analytics
 
-_Last updated: 2026-08-10 07:27 UTC_
+_Last updated: 2026-08-11 07:02 UTC_
 
 ## Unique Visitors per Day
 
@@ -14,7 +14,7 @@ _Last updated: 2026-08-10 07:27 UTC_
 
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
-| justdavis-family/github-analytics-data | 0.0 | 0.0 | 0.1 |
+| justdavis-family/github-analytics-data | 0.0 | 0.0 | 0.0 |
 | justdavis-family/justdavis | 0.1 | 0.1 | 0.0 |
 | karlmdavis/FHIR-Server | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible | 0.0 | 0.0 | 0.0 |
@@ -86,7 +86,7 @@ _Last updated: 2026-08-10 07:27 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.1 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.1 | 0.0 |
-| karlmdavis/ksoap2-android | 1.8 | 1.5 | 1.4 |
+| karlmdavis/ksoap2-android | 1.8 | 1.5 | 1.3 |
 | karlmdavis/kxml2 | 0.3 | 0.1 | 0.1 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 | 0.0 |
@@ -110,12 +110,12 @@ _Last updated: 2026-08-10 07:27 UTC_
 
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
-| justdavis-family/github-analytics-data | 0.0 | 7.9 | 3.2 |
-| justdavis-family/justdavis | 0.1 | 11.1 | 1.4 |
+| justdavis-family/github-analytics-data | 0.0 | 7.9 | 3.3 |
+| justdavis-family/justdavis | 0.1 | 11.1 | 1.6 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 |
-| karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.1 |
+| karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-bind-dns | 0.4 | 0.4 | 0.2 |
 | karlmdavis/ansible-role-jenkins2 | 0.7 | 0.9 | 0.5 |
 | karlmdavis/ansible-role-ldap | 0.1 | 0.1 | 0.1 |
@@ -158,12 +158,12 @@ _Last updated: 2026-08-10 07:27 UTC_
 
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
-| justdavis-family/github-analytics-data | 0.0 | 13.6 | 4.7 |
-| justdavis-family/justdavis | 0.1 | 34.3 | 1.5 |
+| justdavis-family/github-analytics-data | 0.0 | 13.6 | 4.8 |
+| justdavis-family/justdavis | 0.1 | 34.3 | 1.7 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 |
-| karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.1 |
+| karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-bind-dns | 0.4 | 0.5 | 0.2 |
 | karlmdavis/ansible-role-jenkins2 | 0.7 | 1.0 | 0.5 |
 | karlmdavis/ansible-role-ldap | 0.1 | 0.1 | 0.1 |
@@ -173,7 +173,7 @@ _Last updated: 2026-08-10 07:27 UTC_
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
 | karlmdavis/dotfiles | 0.7 | 13.5 | 2.6 |
-| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.2 |
+| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.1 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.5 |
@@ -200,7 +200,7 @@ _Last updated: 2026-08-10 07:27 UTC_
 | karlmdavis/todoist-ai | 0.0 | 0.1 | 0.1 |
 | karlmdavis/usgs-water-api-java | 3.4 | 3.3 | 3.2 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 | 0.1 |
-| karlmdavis/xmlpull | 0.2 | 0.6 | 2.4 |
+| karlmdavis/xmlpull | 0.2 | 0.6 | 2.3 |
 
 ## Current Totals
 
