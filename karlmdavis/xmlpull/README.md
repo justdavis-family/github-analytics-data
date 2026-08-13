@@ -1,6 +1,6 @@
 # karlmdavis/xmlpull
 
-_Last updated: 2026-08-12 07:20 UTC_
+_Last updated: 2026-08-13 07:22 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08"]
-  line [2, 10, 24, 9, 14, 5]
+  line [2, 10, 24, 9, 14, 6]
 ```
 
 ## Traffic
@@ -32,7 +32,7 @@ xychart-beta
 | 2026-05 | 0.3 | 0.6 | 0.8 | 1.3 |
 | 2026-06 | 0.1 | 0.3 | 0.3 | 0.3 |
 | 2026-07 | 0.1 | 0.3 | 0.5 | 2.9 |
-| 2026-08 | 0.3 | 0.5 | 0.5 | 0.5 |
+| 2026-08 | 0.2 | 0.5 | 0.5 | 0.5 |
 
 ## Current Totals
 
