@@ -1,6 +1,6 @@
 # karlmdavis/hapi-fhir-jpaserver-starter
 
-_Last updated: 2026-08-13 07:22 UTC_
+_Last updated: 2026-08-14 07:20 UTC_
 
 ```mermaid
 xychart-beta

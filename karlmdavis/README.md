@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-08-13 07:22 UTC_
+_Last updated: 2026-08-14 07:20 UTC_
 
 ## Unique Visitors per Day
 
@@ -19,7 +19,7 @@ _Last updated: 2026-08-13 07:22 UTC_
 | karlmdavis/ansible-jenkins | 0.0 | 0.0 | 0.1 |
 | karlmdavis/ansible-role-acmetool | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible-role-bind-dns | 0.2 | 0.1 | 0.0 |
-| karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 | 0.3 |
+| karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 | 0.2 |
 | karlmdavis/ansible-role-ldap | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible-roles | 0.0 | 0.0 | 0.0 |
@@ -65,7 +65,7 @@ _Last updated: 2026-08-13 07:22 UTC_
 | karlmdavis/ansible-jenkins | 0.0 | 0.0 | 0.1 |
 | karlmdavis/ansible-role-acmetool | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible-role-bind-dns | 0.2 | 0.1 | 0.0 |
-| karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 | 0.3 |
+| karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 | 0.2 |
 | karlmdavis/ansible-role-ldap | 0.0 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible-roles | 0.0 | 0.0 | 0.0 |
@@ -100,7 +100,7 @@ _Last updated: 2026-08-13 07:22 UTC_
 | karlmdavis/todoist-ai | 0.1 | 0.0 | 0.0 |
 | karlmdavis/usgs-water-api-java | 0.0 | 0.0 | 0.0 |
 | karlmdavis/workstation-base-ansible-role | 0.0 | 0.0 | 0.0 |
-| karlmdavis/xmlpull | 1.7 | 0.4 | 0.3 |
+| karlmdavis/xmlpull | 1.7 | 0.4 | 0.4 |
 
 ## Unique Clones (avg/day)
 
@@ -125,9 +125,9 @@ _Last updated: 2026-08-13 07:22 UTC_
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.5 |
 | karlmdavis/justdavis-ansible | 0.3 | 1.4 | 1.0 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
-| karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.3 |
+| karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
-| karlmdavis/kobjects | 0.2 | 0.3 | 0.3 |
+| karlmdavis/kobjects | 0.2 | 0.3 | 0.2 |
 | karlmdavis/ksoap2-android | 1.3 | 1.2 | 1.3 |
 | karlmdavis/kxml2 | 1.0 | 0.7 | 0.8 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 | 0.0 |
@@ -165,15 +165,15 @@ _Last updated: 2026-08-13 07:22 UTC_
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
 | karlmdavis/dotfiles | 0.7 | 13.5 | 2.4 |
-| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.1 |
+| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.0 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 1.3 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 1.2 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
-| karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.3 |
+| karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
-| karlmdavis/kobjects | 0.2 | 0.6 | 0.3 |
+| karlmdavis/kobjects | 0.2 | 0.6 | 0.2 |
 | karlmdavis/ksoap2-android | 1.6 | 1.7 | 1.4 |
 | karlmdavis/kxml2 | 1.2 | 0.9 | 1.0 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 | 0.0 |
