@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-08-16 06:34 UTC_
+_Last updated: 2026-08-17 06:48 UTC_
 
 ## Unique Visitors per Day
 
@@ -123,7 +123,7 @@ _Last updated: 2026-08-16 06:34 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 1.0 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 1.1 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
 | karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
@@ -169,7 +169,7 @@ _Last updated: 2026-08-16 06:34 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 1.2 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 1.3 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |

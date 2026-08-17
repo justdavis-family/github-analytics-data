@@ -1,6 +1,6 @@
 # GitHub Analytics
 
-_Last updated: 2026-08-16 06:34 UTC_
+_Last updated: 2026-08-17 06:48 UTC_
 
 ## Unique Visitors per Day
 
@@ -129,7 +129,7 @@ _Last updated: 2026-08-16 06:34 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 1.0 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 1.1 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
 | karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
@@ -158,7 +158,7 @@ _Last updated: 2026-08-16 06:34 UTC_
 
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
-| justdavis-family/github-analytics-data | 0.0 | 13.6 | 4.7 |
+| justdavis-family/github-analytics-data | 0.0 | 13.6 | 4.6 |
 | justdavis-family/justdavis | 0.1 | 34.3 | 1.6 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 |
@@ -177,7 +177,7 @@ _Last updated: 2026-08-16 06:34 UTC_
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 1.2 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 1.3 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
