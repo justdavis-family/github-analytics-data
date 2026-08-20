@@ -1,6 +1,6 @@
 # justdavis-family/justdavis
 
-_Last updated: 2026-08-19 06:38 UTC_
+_Last updated: 2026-08-20 06:40 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08"]
-  line [1, 402, 450, 159, 40, 67]
+  line [1, 402, 450, 159, 40, 95]
 ```
 
 ## Traffic
@@ -32,7 +32,7 @@ xychart-beta
 | 2026-05 | 0.2 | 0.3 | 14.5 | 43.4 |
 | 2026-06 | 0.1 | 0.4 | 5.3 | 19.5 |
 | 2026-07 | 0.0 | 0.0 | 1.3 | 1.3 |
-| 2026-08 | 0.1 | 2.0 | 3.9 | 9.6 |
+| 2026-08 | 0.1 | 1.8 | 5.0 | 11.8 |
 
 ## Current Totals
 
