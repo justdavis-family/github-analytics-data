@@ -1,6 +1,6 @@
 # GitHub Analytics
 
-_Last updated: 2026-08-20 06:40 UTC_
+_Last updated: 2026-08-21 06:40 UTC_
 
 ## Unique Visitors per Day
 
@@ -38,7 +38,7 @@ _Last updated: 2026-08-20 06:40 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.1 | 0.1 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.1 | 0.0 |
-| karlmdavis/ksoap2-android | 0.9 | 0.5 | 0.6 |
+| karlmdavis/ksoap2-android | 0.9 | 0.5 | 0.5 |
 | karlmdavis/kxml2 | 0.2 | 0.0 | 0.1 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 | 0.0 |
@@ -76,7 +76,7 @@ _Last updated: 2026-08-20 06:40 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.0 | 0.0 | 0.0 |
 | karlmdavis/can-i-kayak-baltimore | 0.0 | 0.0 | 0.0 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.0 | 0.0 | 0.0 |
-| karlmdavis/dotfiles | 0.0 | 0.0 | 1.3 |
+| karlmdavis/dotfiles | 0.0 | 0.0 | 1.2 |
 | karlmdavis/fhir-benchmarks | 0.2 | 0.2 | 0.5 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.0 | 0.0 | 0.0 |
 | karlmdavis/hello-rust-actix | 0.0 | 0.0 | 0.0 |
@@ -86,7 +86,7 @@ _Last updated: 2026-08-20 06:40 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.1 | 0.1 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.1 | 0.0 |
-| karlmdavis/ksoap2-android | 1.8 | 1.5 | 1.3 |
+| karlmdavis/ksoap2-android | 1.8 | 1.5 | 1.2 |
 | karlmdavis/kxml2 | 0.3 | 0.1 | 0.1 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 | 0.0 |
@@ -111,7 +111,7 @@ _Last updated: 2026-08-20 06:40 UTC_
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
 | justdavis-family/github-analytics-data | 0.0 | 7.9 | 3.2 |
-| justdavis-family/justdavis | 0.1 | 11.1 | 2.7 |
+| justdavis-family/justdavis | 0.1 | 11.1 | 2.8 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 |
@@ -159,7 +159,7 @@ _Last updated: 2026-08-20 06:40 UTC_
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
 | justdavis-family/github-analytics-data | 0.0 | 13.6 | 4.6 |
-| justdavis-family/justdavis | 0.1 | 34.3 | 5.3 |
+| justdavis-family/justdavis | 0.1 | 34.3 | 5.4 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 |
@@ -172,7 +172,7 @@ _Last updated: 2026-08-20 06:40 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.1 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 2.2 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 2.1 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.9 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.1 |
