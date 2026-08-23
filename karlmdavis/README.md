@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-08-22 06:35 UTC_
+_Last updated: 2026-08-23 06:36 UTC_
 
 ## Unique Visitors per Day
 
@@ -100,7 +100,7 @@ _Last updated: 2026-08-22 06:35 UTC_
 | karlmdavis/todoist-ai | 0.1 | 0.0 | 0.0 |
 | karlmdavis/usgs-water-api-java | 0.0 | 0.0 | 0.0 |
 | karlmdavis/workstation-base-ansible-role | 0.0 | 0.0 | 0.0 |
-| karlmdavis/xmlpull | 1.7 | 0.4 | 0.7 |
+| karlmdavis/xmlpull | 1.7 | 0.4 | 0.8 |
 
 ## Unique Clones (avg/day)
 
@@ -119,7 +119,7 @@ _Last updated: 2026-08-22 06:35 UTC_
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
 | karlmdavis/dotfiles | 0.4 | 5.6 | 1.0 |
-| karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.7 |
+| karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.6 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.1 |
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.4 |
@@ -146,7 +146,7 @@ _Last updated: 2026-08-22 06:35 UTC_
 | karlmdavis/todoist-ai | 0.0 | 0.1 | 0.1 |
 | karlmdavis/usgs-water-api-java | 1.4 | 1.3 | 1.2 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 | 0.1 |
-| karlmdavis/xmlpull | 0.2 | 0.5 | 0.5 |
+| karlmdavis/xmlpull | 0.2 | 0.5 | 0.4 |
 
 ## Clones (avg/day)
 
@@ -165,7 +165,7 @@ _Last updated: 2026-08-22 06:35 UTC_
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
 | karlmdavis/dotfiles | 0.7 | 13.5 | 2.1 |
-| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.9 |
+| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.8 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.2 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.1 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.4 |
