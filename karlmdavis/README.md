@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-08-25 06:41 UTC_
+_Last updated: 2026-08-26 06:43 UTC_
 
 ## Unique Visitors per Day
 
@@ -82,7 +82,7 @@ _Last updated: 2026-08-25 06:41 UTC_
 | karlmdavis/justdavis-karl | 0.0 | 0.1 | 0.1 |
 | karlmdavis/justdavis-puppet | 0.0 | 0.0 | 0.0 |
 | karlmdavis/kobjects | 0.0 | 0.1 | 0.0 |
-| karlmdavis/ksoap2-android | 1.8 | 1.5 | 1.2 |
+| karlmdavis/ksoap2-android | 1.8 | 1.5 | 1.1 |
 | karlmdavis/kxml2 | 0.3 | 0.1 | 0.1 |
 | karlmdavis/ldap-plugin | 0.0 | 0.0 | 0.0 |
 | karlmdavis/lego-ev3dev-rs | 0.0 | 0.0 | 0.0 |
@@ -127,7 +127,7 @@ _Last updated: 2026-08-25 06:41 UTC_
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
 | karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
-| karlmdavis/kobjects | 0.2 | 0.3 | 0.3 |
+| karlmdavis/kobjects | 0.2 | 0.3 | 0.2 |
 | karlmdavis/ksoap2-android | 1.3 | 1.2 | 1.2 |
 | karlmdavis/kxml2 | 1.0 | 0.7 | 0.9 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 | 0.0 |
@@ -164,16 +164,16 @@ _Last updated: 2026-08-25 06:41 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.1 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 2.0 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 2.1 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.8 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.1 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.4 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 10.4 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 15.4 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.2 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
-| karlmdavis/kobjects | 0.2 | 0.6 | 0.3 |
+| karlmdavis/kobjects | 0.2 | 0.6 | 0.2 |
 | karlmdavis/ksoap2-android | 1.6 | 1.7 | 1.3 |
 | karlmdavis/kxml2 | 1.2 | 0.9 | 1.2 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 | 0.0 |
