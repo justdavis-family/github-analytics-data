@@ -1,19 +1,19 @@
 # karlmdavis/fhir-benchmarks
 
-_Last updated: 2026-08-29 12:16 UTC_
+_Last updated: 2026-08-30 11:14 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08"]
-  line [2, 6, 2, 7, 19, 3]
+  line [2, 6, 2, 7, 19, 4]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08"]
-  line [2, 7, 2, 12, 20, 4]
+  line [2, 7, 2, 12, 20, 5]
 ```
 
 ```mermaid
@@ -32,7 +32,7 @@ xychart-beta
 | 2026-05 | 0.1 | 0.1 | 1.9 | 2.4 |
 | 2026-06 | 0.2 | 0.4 | 0.9 | 1.0 |
 | 2026-07 | 0.6 | 0.6 | 2.2 | 2.5 |
-| 2026-08 | 0.1 | 0.1 | 0.8 | 0.9 |
+| 2026-08 | 0.1 | 0.2 | 0.7 | 0.8 |
 
 ## Current Totals
 
