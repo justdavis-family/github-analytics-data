@@ -387,3 +387,7 @@
 {"date":"2026-08-31","path":"/karlmdavis/fhir-benchmarks/activity","title":"/activity","count":1,"uniques":1}
 {"date":"2026-09-01","path":"/karlmdavis/fhir-benchmarks","title":"Overview","count":2,"uniques":2}
 {"date":"2026-09-01","path":"/karlmdavis/fhir-benchmarks/activity","title":"/activity","count":1,"uniques":1}
+{"date":"2026-09-02","path":"/karlmdavis/fhir-benchmarks","title":"Overview","count":4,"uniques":4}
+{"date":"2026-09-02","path":"/karlmdavis/fhir-benchmarks/activity","title":"/activity","count":1,"uniques":1}
+{"date":"2026-09-02","path":"/karlmdavis/fhir-benchmarks/tree/main/dev","title":"/tree/main/dev","count":1,"uniques":1}
+{"date":"2026-09-02","path":"/karlmdavis/fhir-benchmarks/tree/main/dev/architecture","title":"/tree/main/dev/architecture","count":1,"uniques":1}
