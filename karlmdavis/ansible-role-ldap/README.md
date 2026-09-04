@@ -1,6 +1,6 @@
 # karlmdavis/ansible-role-ldap
 
-_Last updated: 2026-09-03 10:39 UTC_
+_Last updated: 2026-09-04 10:34 UTC_
 
 ```mermaid
 xychart-beta

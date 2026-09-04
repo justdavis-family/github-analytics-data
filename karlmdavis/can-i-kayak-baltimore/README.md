@@ -1,6 +1,6 @@
 # karlmdavis/can-i-kayak-baltimore
 
-_Last updated: 2026-09-03 10:39 UTC_
+_Last updated: 2026-09-04 10:34 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
-  line [3, 10, 10, 5, 4, 3, 1]
+  line [3, 10, 10, 5, 4, 3, 2]
 ```
 
 ## Traffic
@@ -33,7 +33,7 @@ xychart-beta
 | 2026-06 | 0.0 | 0.0 | 0.2 | 0.2 |
 | 2026-07 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-08 | 0.0 | 0.0 | 0.1 | 0.1 |
-| 2026-09 | 0.0 | 0.0 | 0.5 | 0.5 |
+| 2026-09 | 0.0 | 0.0 | 0.7 | 0.7 |
 
 ## Current Totals
 
