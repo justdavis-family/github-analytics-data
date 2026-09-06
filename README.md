@@ -1,6 +1,6 @@
 # GitHub Analytics
 
-_Last updated: 2026-09-05 09:56 UTC_
+_Last updated: 2026-09-06 10:14 UTC_
 
 ## Unique Visitors per Day
 
@@ -150,7 +150,7 @@ _Last updated: 2026-09-05 09:56 UTC_
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 | 0.1 |
 | karlmdavis/test-repo-for-move | 0.3 | 0.2 | 0.1 |
 | karlmdavis/todoist-ai | 0.0 | 0.1 | 0.1 |
-| karlmdavis/usgs-water-api-java | 1.4 | 1.3 | 1.2 |
+| karlmdavis/usgs-water-api-java | 1.4 | 1.3 | 1.1 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 | 0.1 |
 | karlmdavis/xmlpull | 0.2 | 0.5 | 0.4 |
 
@@ -172,12 +172,12 @@ _Last updated: 2026-09-05 09:56 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.1 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 2.1 |
-| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.1 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 2.0 |
+| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.0 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.4 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 40.8 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 40.2 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.3 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.1 |
@@ -189,16 +189,16 @@ _Last updated: 2026-09-05 09:56 UTC_
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 |
 | karlmdavis/m2e-core | 0.2 | 1.3 | 0.2 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 | 0.0 |
-| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.3 |
+| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.2 |
 | karlmdavis/perfect-note | 0.6 | 0.3 | 0.1 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 |
-| karlmdavis/rps-tourney | 0.2 | 0.5 | 0.8 |
+| karlmdavis/rps-tourney | 0.2 | 0.5 | 0.7 |
 | karlmdavis/sample-maven-and-rcp | 0.1 | 0.3 | 0.1 |
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 | 0.1 |
 | karlmdavis/test-repo-for-move | 0.3 | 0.2 | 0.1 |
 | karlmdavis/todoist-ai | 0.0 | 0.1 | 0.1 |
-| karlmdavis/usgs-water-api-java | 3.4 | 3.3 | 3.2 |
+| karlmdavis/usgs-water-api-java | 3.4 | 3.3 | 3.1 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 | 0.1 |
 | karlmdavis/xmlpull | 0.2 | 0.6 | 1.5 |
 
