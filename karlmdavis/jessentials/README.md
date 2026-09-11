@@ -1,6 +1,6 @@
 # karlmdavis/jessentials
 
-_Last updated: 2026-09-10 10:35 UTC_
+_Last updated: 2026-09-11 10:35 UTC_
 
 ```mermaid
 xychart-beta
@@ -33,7 +33,7 @@ xychart-beta
 | 2026-06 | 0.0 | 0.0 | 0.3 | 0.4 |
 | 2026-07 | 0.0 | 0.0 | 0.5 | 0.5 |
 | 2026-08 | 0.0 | 0.0 | 0.3 | 0.3 |
-| 2026-09 | 0.0 | 0.0 | 0.9 | 1.0 |
+| 2026-09 | 0.0 | 0.0 | 0.8 | 0.9 |
 
 ## Current Totals
 
