@@ -1,6 +1,6 @@
 # GitHub Analytics
 
-_Last updated: 2026-09-14 11:46 UTC_
+_Last updated: 2026-09-15 11:03 UTC_
 
 ## Unique Visitors per Day
 
@@ -23,7 +23,7 @@ _Last updated: 2026-09-14 11:46 UTC_
 | karlmdavis/ansible-role-bind-dns | 0.2 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 | 0.2 |
 | karlmdavis/ansible-role-ldap | 0.0 | 0.0 | 0.0 |
-| karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 | 0.0 |
+| karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 | 0.1 |
 | karlmdavis/ansible-roles | 0.0 | 0.0 | 0.0 |
 | karlmdavis/bbonfhir-dev-infra-docker | 0.0 | 0.0 | 0.0 |
 | karlmdavis/can-i-kayak-baltimore | 0.0 | 0.0 | 0.0 |
@@ -49,7 +49,7 @@ _Last updated: 2026-09-14 11:46 UTC_
 | karlmdavis/perfect-note | 0.0 | 0.0 | 0.0 |
 | karlmdavis/puppet-archive | 0.0 | 0.0 | 0.0 |
 | karlmdavis/puppet-sonar | 0.0 | 0.0 | 0.0 |
-| karlmdavis/rps-tourney | 0.3 | 0.2 | 0.3 |
+| karlmdavis/rps-tourney | 0.3 | 0.2 | 0.4 |
 | karlmdavis/sample-maven-and-rcp | 0.0 | 0.0 | 0.0 |
 | karlmdavis/stockfighter-trades-solutions | 0.0 | 0.0 | 0.0 |
 | karlmdavis/test-repo-for-move | 0.0 | 0.0 | 0.0 |
@@ -71,7 +71,7 @@ _Last updated: 2026-09-14 11:46 UTC_
 | karlmdavis/ansible-role-bind-dns | 0.2 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 | 0.2 |
 | karlmdavis/ansible-role-ldap | 0.0 | 0.1 | 0.0 |
-| karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 | 0.0 |
+| karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 | 0.1 |
 | karlmdavis/ansible-roles | 0.0 | 0.0 | 0.0 |
 | karlmdavis/bbonfhir-dev-infra-docker | 0.0 | 0.0 | 0.0 |
 | karlmdavis/can-i-kayak-baltimore | 0.0 | 0.0 | 0.0 |
@@ -97,7 +97,7 @@ _Last updated: 2026-09-14 11:46 UTC_
 | karlmdavis/perfect-note | 0.0 | 0.0 | 0.0 |
 | karlmdavis/puppet-archive | 0.0 | 0.0 | 0.0 |
 | karlmdavis/puppet-sonar | 0.0 | 0.0 | 0.0 |
-| karlmdavis/rps-tourney | 0.3 | 0.2 | 0.3 |
+| karlmdavis/rps-tourney | 0.3 | 0.2 | 0.4 |
 | karlmdavis/sample-maven-and-rcp | 0.0 | 0.0 | 0.0 |
 | karlmdavis/stockfighter-trades-solutions | 0.0 | 0.0 | 0.0 |
 | karlmdavis/test-repo-for-move | 0.0 | 0.0 | 0.0 |
@@ -110,7 +110,7 @@ _Last updated: 2026-09-14 11:46 UTC_
 
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
-| justdavis-family/github-analytics-data | 0.0 | 7.9 | 3.5 |
+| justdavis-family/github-analytics-data | 0.0 | 7.9 | 3.4 |
 | justdavis-family/justdavis | 0.1 | 11.1 | 3.3 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 |
@@ -124,14 +124,14 @@ _Last updated: 2026-09-14 11:46 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.1 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.4 | 5.6 | 1.4 |
-| karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.7 |
+| karlmdavis/dotfiles | 0.4 | 5.6 | 1.6 |
+| karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.8 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 1.5 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 1.8 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
-| karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.3 |
+| karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
 | karlmdavis/kobjects | 0.2 | 0.3 | 0.3 |
 | karlmdavis/ksoap2-android | 1.3 | 1.2 | 1.1 |
@@ -158,26 +158,26 @@ _Last updated: 2026-09-14 11:46 UTC_
 
 | Repository | 2026-Q1 | 2026-Q2 | 2026-Q3 |
 |---|---|---|---|
-| justdavis-family/github-analytics-data | 0.0 | 13.6 | 4.6 |
+| justdavis-family/github-analytics-data | 0.0 | 13.6 | 4.5 |
 | justdavis-family/justdavis | 0.1 | 34.3 | 6.0 |
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-bind-dns | 0.4 | 0.5 | 0.3 |
-| karlmdavis/ansible-role-jenkins2 | 0.7 | 1.0 | 0.8 |
+| karlmdavis/ansible-role-jenkins2 | 0.7 | 1.0 | 0.9 |
 | karlmdavis/ansible-role-ldap | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.4 | 0.6 | 0.2 |
 | karlmdavis/ansible-roles | 0.2 | 0.1 | 0.0 |
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.1 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 3.2 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 3.6 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.0 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 37.3 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 37.9 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
@@ -189,7 +189,7 @@ _Last updated: 2026-09-14 11:46 UTC_
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 |
 | karlmdavis/m2e-core | 0.2 | 1.3 | 0.2 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 | 0.0 |
-| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.6 |
+| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.5 |
 | karlmdavis/perfect-note | 0.6 | 0.3 | 0.1 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 |
