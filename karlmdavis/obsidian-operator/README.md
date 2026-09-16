@@ -1,6 +1,6 @@
 # karlmdavis/obsidian-operator
 
-_Last updated: 2026-09-15 11:03 UTC_
+_Last updated: 2026-09-16 10:50 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
-  line [5, 18, 37, 27, 19, 20, 14]
+  line [5, 18, 37, 27, 19, 20, 15]
 ```
 
 ## Traffic
@@ -33,7 +33,7 @@ xychart-beta
 | 2026-06 | 0.0 | 0.0 | 0.9 | 1.6 |
 | 2026-07 | 0.0 | 0.0 | 0.6 | 1.2 |
 | 2026-08 | 0.0 | 0.0 | 0.6 | 1.3 |
-| 2026-09 | 0.0 | 0.0 | 1.0 | 2.9 |
+| 2026-09 | 0.0 | 0.0 | 1.0 | 2.7 |
 
 ## Current Totals
 
