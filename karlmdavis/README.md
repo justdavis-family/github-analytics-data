@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-09-16 10:50 UTC_
+_Last updated: 2026-09-17 10:56 UTC_
 
 ## Unique Visitors per Day
 
@@ -118,20 +118,20 @@ _Last updated: 2026-09-16 10:50 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.1 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.4 | 5.6 | 2.0 |
+| karlmdavis/dotfiles | 0.4 | 5.6 | 2.5 |
 | karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.7 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 2.2 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 2.6 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
 | karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
 | karlmdavis/kobjects | 0.2 | 0.3 | 0.3 |
 | karlmdavis/ksoap2-android | 1.3 | 1.2 | 1.1 |
-| karlmdavis/kxml2 | 1.0 | 0.7 | 1.0 |
+| karlmdavis/kxml2 | 1.0 | 0.7 | 0.9 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 | 0.0 |
-| karlmdavis/lego-ev3dev-rs | 1.0 | 0.7 | 0.5 |
+| karlmdavis/lego-ev3dev-rs | 1.0 | 0.7 | 0.4 |
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 |
 | karlmdavis/m2e-core | 0.2 | 0.3 | 0.2 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.2 | 0.0 |
@@ -164,12 +164,12 @@ _Last updated: 2026-09-16 10:50 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.1 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 4.5 |
-| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 2.0 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 5.9 |
+| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.9 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 38.6 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 38.9 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
@@ -177,7 +177,7 @@ _Last updated: 2026-09-16 10:50 UTC_
 | karlmdavis/ksoap2-android | 1.6 | 1.7 | 1.2 |
 | karlmdavis/kxml2 | 1.2 | 0.9 | 1.2 |
 | karlmdavis/ldap-plugin | 0.0 | 0.1 | 0.0 |
-| karlmdavis/lego-ev3dev-rs | 1.2 | 0.7 | 0.5 |
+| karlmdavis/lego-ev3dev-rs | 1.2 | 0.7 | 0.4 |
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 |
 | karlmdavis/m2e-core | 0.2 | 1.3 | 0.2 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 | 0.0 |
