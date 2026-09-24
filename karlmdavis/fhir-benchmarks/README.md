@@ -1,26 +1,26 @@
 # karlmdavis/fhir-benchmarks
 
-_Last updated: 2026-09-23 10:45 UTC_
+_Last updated: 2026-09-24 11:06 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
-  line [2, 6, 2, 7, 19, 5, 9]
+  line [2, 6, 2, 7, 19, 5, 10]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
-  line [2, 7, 2, 12, 20, 6, 12]
+  line [2, 7, 2, 12, 20, 6, 13]
 ```
 
 ```mermaid
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09"]
-  line [8, 35, 59, 27, 69, 22, 48]
+  line [8, 35, 59, 27, 69, 22, 51]
 ```
 
 ## Traffic
@@ -33,7 +33,7 @@ xychart-beta
 | 2026-06 | 0.2 | 0.4 | 0.9 | 1.0 |
 | 2026-07 | 0.6 | 0.6 | 2.2 | 2.5 |
 | 2026-08 | 0.2 | 0.2 | 0.7 | 0.8 |
-| 2026-09 | 0.4 | 0.5 | 2.2 | 2.5 |
+| 2026-09 | 0.4 | 0.6 | 2.2 | 2.6 |
 
 ## Current Totals
 

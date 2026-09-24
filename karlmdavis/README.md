@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-09-23 10:45 UTC_
+_Last updated: 2026-09-24 11:06 UTC_
 
 ## Unique Visitors per Day
 
@@ -26,7 +26,7 @@ _Last updated: 2026-09-23 10:45 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.0 | 0.0 | 0.0 |
 | karlmdavis/can-i-kayak-baltimore | 0.0 | 0.0 | 0.0 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.0 | 0.0 | 0.0 |
-| karlmdavis/dotfiles | 0.0 | 0.0 | 0.1 |
+| karlmdavis/dotfiles | 0.0 | 0.0 | 0.2 |
 | karlmdavis/fhir-benchmarks | 0.2 | 0.2 | 0.4 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.0 | 0.0 | 0.0 |
 | karlmdavis/hello-rust-actix | 0.0 | 0.0 | 0.0 |
@@ -100,7 +100,7 @@ _Last updated: 2026-09-23 10:45 UTC_
 | karlmdavis/todoist-ai | 0.1 | 0.0 | 0.0 |
 | karlmdavis/usgs-water-api-java | 0.0 | 0.0 | 0.0 |
 | karlmdavis/workstation-base-ansible-role | 0.0 | 0.0 | 0.0 |
-| karlmdavis/xmlpull | 1.7 | 0.4 | 2.7 |
+| karlmdavis/xmlpull | 1.7 | 0.4 | 2.6 |
 
 ## Unique Clones (avg/day)
 
@@ -118,12 +118,12 @@ _Last updated: 2026-09-23 10:45 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.2 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.2 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.4 | 5.6 | 2.7 |
+| karlmdavis/dotfiles | 0.4 | 5.6 | 2.8 |
 | karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.7 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
-| karlmdavis/jessentials | 0.3 | 0.5 | 0.5 |
-| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 4.4 |
+| karlmdavis/jessentials | 0.3 | 0.5 | 0.6 |
+| karlmdavis/justdavis-ansible | 0.3 | 1.4 | 5.0 |
 | karlmdavis/justdavis-finances | 19.0 | 10.2 | 0.0 |
 | karlmdavis/justdavis-karl | 0.6 | 0.5 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
@@ -164,12 +164,12 @@ _Last updated: 2026-09-23 10:45 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.2 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.2 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 6.1 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 6.2 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.9 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.6 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 42.5 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 43.8 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.4 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 |
@@ -181,7 +181,7 @@ _Last updated: 2026-09-23 10:45 UTC_
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 |
 | karlmdavis/m2e-core | 0.2 | 1.3 | 0.2 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 | 0.0 |
-| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.5 |
+| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.6 |
 | karlmdavis/perfect-note | 0.6 | 0.3 | 0.1 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 |
