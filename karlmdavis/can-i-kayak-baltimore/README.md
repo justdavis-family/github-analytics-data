@@ -1,6 +1,6 @@
 # karlmdavis/can-i-kayak-baltimore
 
-_Last updated: 2026-09-28 12:53 UTC_
+_Last updated: 2026-09-29 12:07 UTC_
 
 ```mermaid
 xychart-beta
