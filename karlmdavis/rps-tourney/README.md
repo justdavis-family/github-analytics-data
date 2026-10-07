@@ -1,6 +1,6 @@
 # karlmdavis/rps-tourney
 
-_Last updated: 2026-10-06 12:44 UTC_
+_Last updated: 2026-10-07 12:38 UTC_
 
 ```mermaid
 xychart-beta
@@ -34,7 +34,7 @@ xychart-beta
 | 2026-07 | 0.2 | 0.2 | 0.4 | 0.4 |
 | 2026-08 | 0.5 | 0.5 | 0.6 | 0.7 |
 | 2026-09 | 0.4 | 0.4 | 0.9 | 0.9 |
-| 2026-10 | 0.4 | 0.4 | 0.4 | 0.4 |
+| 2026-10 | 0.3 | 0.3 | 0.3 | 0.3 |
 
 ## Current Totals
 
