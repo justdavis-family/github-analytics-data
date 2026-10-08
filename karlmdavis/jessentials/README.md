@@ -1,6 +1,6 @@
 # karlmdavis/jessentials
 
-_Last updated: 2026-10-07 12:38 UTC_
+_Last updated: 2026-10-08 12:47 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
-  line [3, 18, 16, 9, 17, 9, 24, 2]
+  line [3, 18, 16, 9, 17, 9, 24, 3]
 ```
 
 ## Traffic
@@ -34,7 +34,7 @@ xychart-beta
 | 2026-07 | 0.0 | 0.0 | 0.5 | 0.5 |
 | 2026-08 | 0.0 | 0.0 | 0.3 | 0.3 |
 | 2026-09 | 0.0 | 0.0 | 0.8 | 0.8 |
-| 2026-10 | 0.0 | 0.0 | 0.3 | 0.3 |
+| 2026-10 | 0.0 | 0.0 | 0.4 | 0.4 |
 
 ## Current Totals
 
