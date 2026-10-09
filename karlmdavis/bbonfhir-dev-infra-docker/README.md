@@ -1,6 +1,6 @@
 # karlmdavis/bbonfhir-dev-infra-docker
 
-_Last updated: 2026-10-08 12:47 UTC_
+_Last updated: 2026-10-09 12:33 UTC_
 
 ```mermaid
 xychart-beta
@@ -34,7 +34,7 @@ xychart-beta
 | 2026-07 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-08 | 0.0 | 0.0 | 0.2 | 0.2 |
 | 2026-09 | 0.0 | 0.0 | 0.3 | 0.3 |
-| 2026-10 | 0.0 | 0.0 | 0.3 | 0.3 |
+| 2026-10 | 0.0 | 0.0 | 0.2 | 0.2 |
 
 ## Current Totals
 

@@ -1,6 +1,6 @@
 # karlmdavis/hapi-fhir-jpaserver-starter
 
-_Last updated: 2026-10-08 12:47 UTC_
+_Last updated: 2026-10-09 12:33 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
-  line [1, 6, 6, 6, 5, 2, 3, 0]
+  line [1, 6, 6, 6, 5, 2, 3, 1]
 ```
 
 ## Traffic
@@ -34,7 +34,7 @@ xychart-beta
 | 2026-07 | 0.0 | 0.0 | 0.2 | 0.2 |
 | 2026-08 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-09 | 0.0 | 0.0 | 0.1 | 0.1 |
-| 2026-10 | 0.0 | 0.0 | 0.0 | 0.0 |
+| 2026-10 | 0.0 | 0.0 | 0.1 | 0.1 |
 
 ## Current Totals
 
