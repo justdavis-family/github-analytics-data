@@ -1,6 +1,6 @@
 # karlmdavis/fhir-benchmarks
 
-_Last updated: 2026-10-11 12:05 UTC_
+_Last updated: 2026-10-12 14:24 UTC_
 
 ```mermaid
 xychart-beta
@@ -34,7 +34,7 @@ xychart-beta
 | 2026-07 | 0.6 | 0.6 | 2.2 | 2.5 |
 | 2026-08 | 0.2 | 0.2 | 0.7 | 0.8 |
 | 2026-09 | 0.5 | 0.6 | 2.0 | 2.4 |
-| 2026-10 | 0.5 | 0.5 | 1.8 | 2.8 |
+| 2026-10 | 0.5 | 0.5 | 1.6 | 2.5 |
 
 ## Current Totals
 
