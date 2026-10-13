@@ -1,19 +1,19 @@
 # karlmdavis/justdavis-karl
 
-_Last updated: 2026-10-12 14:24 UTC_
+_Last updated: 2026-10-13 13:33 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
-  line [0, 0, 2, 3, 3, 0, 6, 3]
+  line [0, 0, 2, 3, 3, 0, 6, 4]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
-  line [0, 0, 2, 3, 7, 0, 6, 4]
+  line [0, 0, 2, 3, 7, 0, 6, 5]
 ```
 
 ```mermaid
