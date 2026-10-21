@@ -1,6 +1,6 @@
 # karlmdavis/puppet-sonar
 
-_Last updated: 2026-10-20 10:55 UTC_
+_Last updated: 2026-10-21 11:09 UTC_
 
 ```mermaid
 xychart-beta
@@ -34,7 +34,7 @@ xychart-beta
 | 2026-07 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-08 | 0.0 | 0.0 | 0.1 | 0.1 |
 | 2026-09 | 0.0 | 0.0 | 0.2 | 0.2 |
-| 2026-10 | 0.0 | 0.0 | 1.7 | 1.7 |
+| 2026-10 | 0.0 | 0.0 | 1.6 | 1.6 |
 
 ## Current Totals
 

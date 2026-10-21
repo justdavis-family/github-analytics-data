@@ -1,19 +1,19 @@
 # karlmdavis/todoist-ai
 
-_Last updated: 2026-10-20 10:55 UTC_
+_Last updated: 2026-10-21 11:09 UTC_
 
 ```mermaid
 xychart-beta
   title "Unique Visitors per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
-  line [1, 1, 0, 0, 0, 0, 1, 6]
+  line [1, 1, 0, 0, 0, 0, 1, 7]
 ```
 
 ```mermaid
 xychart-beta
   title "Views per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10"]
-  line [1, 1, 0, 0, 0, 0, 1, 6]
+  line [1, 1, 0, 0, 0, 0, 1, 7]
 ```
 
 ```mermaid
