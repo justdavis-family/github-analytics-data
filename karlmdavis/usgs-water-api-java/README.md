@@ -1,6 +1,6 @@
 # karlmdavis/usgs-water-api-java
 
-_Last updated: 2026-10-26 12:14 UTC_
+_Last updated: 2026-10-27 11:35 UTC_
 
 ```mermaid
 xychart-beta
