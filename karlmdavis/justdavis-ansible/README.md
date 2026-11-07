@@ -1,6 +1,6 @@
 # karlmdavis/justdavis-ansible
 
-_Last updated: 2026-11-06 13:43 UTC_
+_Last updated: 2026-11-07 12:26 UTC_
 
 ```mermaid
 xychart-beta
@@ -35,7 +35,7 @@ xychart-beta
 | 2026-08 | 0.1 | 0.1 | 1.5 | 85.9 |
 | 2026-09 | 0.1 | 0.1 | 17.6 | 49.1 |
 | 2026-10 | 0.8 | 0.8 | 6.8 | 16.6 |
-| 2026-11 | 6.6 | 7.0 | 11.0 | 28.6 |
+| 2026-11 | 5.5 | 5.8 | 9.2 | 23.8 |
 
 ## Current Totals
 
