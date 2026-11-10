@@ -1,6 +1,6 @@
 # karlmdavis/todoist-ai
 
-_Last updated: 2026-11-09 15:08 UTC_
+_Last updated: 2026-11-10 14:18 UTC_
 
 ```mermaid
 xychart-beta
@@ -35,7 +35,7 @@ xychart-beta
 | 2026-08 | 0.0 | 0.0 | 0.0 | 0.0 |
 | 2026-09 | 0.0 | 0.0 | 0.2 | 0.2 |
 | 2026-10 | 0.3 | 0.3 | 0.1 | 0.1 |
-| 2026-11 | 0.5 | 0.5 | 0.4 | 0.4 |
+| 2026-11 | 0.4 | 0.4 | 0.3 | 0.3 |
 
 ## Current Totals
 
