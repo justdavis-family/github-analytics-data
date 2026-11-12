@@ -1,6 +1,6 @@
 # karlmdavis/bbonfhir-dev-infra-docker
 
-_Last updated: 2026-11-11 13:32 UTC_
+_Last updated: 2026-11-12 14:36 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10", "2026-11"]
-  line [3, 10, 11, 4, 2, 6, 8, 12, 3]
+  line [3, 10, 11, 4, 2, 6, 8, 12, 4]
 ```
 
 ## Traffic
@@ -35,7 +35,7 @@ xychart-beta
 | 2026-08 | 0.0 | 0.0 | 0.2 | 0.2 |
 | 2026-09 | 0.0 | 0.0 | 0.3 | 0.3 |
 | 2026-10 | 0.0 | 0.0 | 0.4 | 0.5 |
-| 2026-11 | 0.0 | 0.0 | 0.3 | 0.4 |
+| 2026-11 | 0.0 | 0.0 | 0.4 | 0.5 |
 
 ## Current Totals
 
