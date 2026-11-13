@@ -1,6 +1,6 @@
 # karlmdavis/puppet-sonar
 
-_Last updated: 2026-11-12 14:36 UTC_
+_Last updated: 2026-11-13 13:54 UTC_
 
 ```mermaid
 xychart-beta
