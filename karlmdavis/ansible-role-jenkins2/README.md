@@ -1,6 +1,6 @@
 # karlmdavis/ansible-role-jenkins2
 
-_Last updated: 2026-11-16 14:46 UTC_
+_Last updated: 2026-11-17 15:28 UTC_
 
 ```mermaid
 xychart-beta
@@ -20,7 +20,7 @@ xychart-beta
 xychart-beta
   title "Unique Clones per Month"
   x-axis ["2026-03", "2026-04", "2026-05", "2026-06", "2026-07", "2026-08", "2026-09", "2026-10", "2026-11"]
-  line [6, 37, 28, 21, 13, 19, 52, 29, 28]
+  line [6, 37, 28, 21, 13, 19, 52, 29, 29]
 ```
 
 ## Traffic
@@ -35,7 +35,7 @@ xychart-beta
 | 2026-08 | 0.2 | 0.2 | 0.6 | 0.6 |
 | 2026-09 | 0.3 | 0.3 | 1.7 | 2.1 |
 | 2026-10 | 0.5 | 0.5 | 0.9 | 1.2 |
-| 2026-11 | 1.5 | 1.5 | 2.0 | 5.6 |
+| 2026-11 | 1.3 | 1.3 | 1.8 | 4.9 |
 
 ## Current Totals
 
