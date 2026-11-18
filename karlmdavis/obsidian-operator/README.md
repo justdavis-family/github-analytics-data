@@ -1,6 +1,6 @@
 # karlmdavis/obsidian-operator
 
-_Last updated: 2026-11-17 15:28 UTC_
+_Last updated: 2026-11-18 15:04 UTC_
 
 ```mermaid
 xychart-beta
@@ -35,7 +35,7 @@ xychart-beta
 | 2026-08 | 0.0 | 0.0 | 0.6 | 1.3 |
 | 2026-09 | 0.0 | 0.0 | 0.9 | 2.0 |
 | 2026-10 | 0.1 | 0.1 | 1.4 | 2.3 |
-| 2026-11 | 0.1 | 0.1 | 1.2 | 2.3 |
+| 2026-11 | 0.1 | 0.1 | 1.1 | 2.2 |
 
 ## Current Totals
 
