@@ -1,6 +1,6 @@
 # karlmdavis/todoist-ai
 
-_Last updated: 2026-11-19 15:14 UTC_
+_Last updated: 2026-11-20 14:53 UTC_
 
 ```mermaid
 xychart-beta
