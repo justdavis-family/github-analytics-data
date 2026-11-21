@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-11-20 14:53 UTC_
+_Last updated: 2026-11-21 14:11 UTC_
 
 ## Unique Visitors per Day
 
@@ -64,7 +64,7 @@ _Last updated: 2026-11-20 14:53 UTC_
 | karlmdavis/ansible | 0.0 | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible-jenkins | 0.0 | 0.0 | 0.0 | 0.0 |
 | karlmdavis/ansible-role-acmetool | 0.0 | 0.0 | 0.0 | 0.0 |
-| karlmdavis/ansible-role-bind-dns | 0.2 | 0.1 | 0.1 | 0.3 |
+| karlmdavis/ansible-role-bind-dns | 0.2 | 0.1 | 0.1 | 0.4 |
 | karlmdavis/ansible-role-jenkins2 | 0.2 | 0.2 | 0.2 | 0.7 |
 | karlmdavis/ansible-role-ldap | 0.0 | 0.1 | 0.0 | 0.1 |
 | karlmdavis/ansible-role-rcm-dotfiles | 0.0 | 0.0 | 0.1 | 0.3 |
@@ -108,7 +108,7 @@ _Last updated: 2026-11-20 14:53 UTC_
 |---|---|---|---|---|
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 | 0.0 |
-| karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 | 0.1 |
+| karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-bind-dns | 0.4 | 0.4 | 0.3 | 0.5 |
 | karlmdavis/ansible-role-jenkins2 | 0.7 | 0.9 | 0.9 | 1.3 |
@@ -139,7 +139,7 @@ _Last updated: 2026-11-20 14:53 UTC_
 | karlmdavis/perfect-note | 0.3 | 0.3 | 0.1 | 0.5 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 | 0.1 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 | 0.7 |
-| karlmdavis/rps-tourney | 0.2 | 0.5 | 0.6 | 0.7 |
+| karlmdavis/rps-tourney | 0.2 | 0.5 | 0.6 | 0.6 |
 | karlmdavis/sample-maven-and-rcp | 0.1 | 0.3 | 0.1 | 0.5 |
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 | 0.1 | 0.3 |
 | karlmdavis/test-repo-for-move | 0.3 | 0.2 | 0.1 | 0.4 |
@@ -154,7 +154,7 @@ _Last updated: 2026-11-20 14:53 UTC_
 |---|---|---|---|---|
 | karlmdavis/FHIR-Server | 0.1 | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible | 0.1 | 0.1 | 0.0 | 0.0 |
-| karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 | 0.1 |
+| karlmdavis/ansible-jenkins | 0.1 | 0.1 | 0.1 | 0.0 |
 | karlmdavis/ansible-role-acmetool | 0.1 | 0.1 | 0.1 | 0.1 |
 | karlmdavis/ansible-role-bind-dns | 0.4 | 0.5 | 0.3 | 0.5 |
 | karlmdavis/ansible-role-jenkins2 | 0.7 | 1.0 | 1.1 | 2.5 |
@@ -164,7 +164,7 @@ _Last updated: 2026-11-20 14:53 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.2 | 0.4 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 | 0.5 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 9.3 | 10.0 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 9.3 | 9.9 |
 | karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.9 | 4.1 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 | 0.5 |
