@@ -1,6 +1,6 @@
 # karlmdavis
 
-_Last updated: 2026-11-22 14:01 UTC_
+_Last updated: 2026-11-23 17:22 UTC_
 
 ## Unique Visitors per Day
 
@@ -73,7 +73,7 @@ _Last updated: 2026-11-22 14:01 UTC_
 | karlmdavis/can-i-kayak-baltimore | 0.0 | 0.0 | 0.0 | 0.0 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.0 | 0.0 | 0.0 | 0.0 |
 | karlmdavis/dotfiles | 0.0 | 0.0 | 0.9 | 0.7 |
-| karlmdavis/fhir-benchmarks | 0.2 | 0.2 | 0.5 | 0.8 |
+| karlmdavis/fhir-benchmarks | 0.2 | 0.2 | 0.5 | 0.9 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.0 | 0.0 | 0.0 | 0.0 |
 | karlmdavis/hello-rust-actix | 0.0 | 0.0 | 0.0 | 0.1 |
 | karlmdavis/jessentials | 0.0 | 0.0 | 0.0 | 0.0 |
@@ -100,7 +100,7 @@ _Last updated: 2026-11-22 14:01 UTC_
 | karlmdavis/todoist-ai | 0.1 | 0.0 | 0.0 | 0.3 |
 | karlmdavis/usgs-water-api-java | 0.0 | 0.0 | 0.0 | 0.0 |
 | karlmdavis/workstation-base-ansible-role | 0.0 | 0.0 | 0.0 | 0.0 |
-| karlmdavis/xmlpull | 1.7 | 0.4 | 2.5 | 1.0 |
+| karlmdavis/xmlpull | 1.7 | 0.4 | 2.5 | 1.1 |
 
 ## Unique Clones (avg/day)
 
@@ -118,8 +118,8 @@ _Last updated: 2026-11-22 14:01 UTC_
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.2 | 0.3 |
 | karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 | 0.4 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 | 0.0 |
-| karlmdavis/dotfiles | 0.4 | 5.6 | 4.3 | 5.4 |
-| karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.6 | 2.7 |
+| karlmdavis/dotfiles | 0.4 | 5.6 | 4.3 | 5.8 |
+| karlmdavis/fhir-benchmarks | 0.9 | 1.3 | 1.6 | 2.6 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 | 0.4 |
 | karlmdavis/jessentials | 0.3 | 0.5 | 0.5 | 0.6 |
@@ -136,7 +136,7 @@ _Last updated: 2026-11-22 14:01 UTC_
 | karlmdavis/m2e-core | 0.2 | 0.3 | 0.2 | 0.5 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.2 | 0.0 | 0.1 |
 | karlmdavis/obsidian-operator | 0.6 | 0.9 | 0.7 | 1.3 |
-| karlmdavis/perfect-note | 0.3 | 0.3 | 0.1 | 0.4 |
+| karlmdavis/perfect-note | 0.3 | 0.3 | 0.1 | 0.5 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 | 0.1 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 | 0.7 |
 | karlmdavis/rps-tourney | 0.2 | 0.5 | 0.6 | 0.7 |
@@ -162,14 +162,14 @@ _Last updated: 2026-11-22 14:01 UTC_
 | karlmdavis/ansible-role-rcm-dotfiles | 0.4 | 0.6 | 0.2 | 1.0 |
 | karlmdavis/ansible-roles | 0.2 | 0.1 | 0.0 | 0.1 |
 | karlmdavis/bbonfhir-dev-infra-docker | 0.3 | 0.3 | 0.2 | 0.4 |
-| karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 | 0.4 |
+| karlmdavis/can-i-kayak-baltimore | 0.3 | 0.3 | 0.1 | 0.5 |
 | karlmdavis/datanucleus-test-jdo-1-to-n | 0.1 | 0.1 | 0.0 | 0.0 |
-| karlmdavis/dotfiles | 0.7 | 13.5 | 9.3 | 9.9 |
-| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.9 | 4.1 |
+| karlmdavis/dotfiles | 0.7 | 13.5 | 9.3 | 10.9 |
+| karlmdavis/fhir-benchmarks | 1.0 | 1.7 | 1.9 | 4.0 |
 | karlmdavis/hapi-fhir-jpaserver-starter | 0.1 | 0.2 | 0.1 | 0.1 |
 | karlmdavis/hello-rust-actix | 0.2 | 0.3 | 0.2 | 0.5 |
 | karlmdavis/jessentials | 0.6 | 0.7 | 0.6 | 0.7 |
-| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 45.2 | 16.9 |
+| karlmdavis/justdavis-ansible | 0.3 | 3.3 | 45.2 | 16.7 |
 | karlmdavis/justdavis-finances | 49.4 | 26.4 | 0.0 | 0.0 |
 | karlmdavis/justdavis-karl | 0.9 | 1.5 | 0.4 | 1.0 |
 | karlmdavis/justdavis-puppet | 0.4 | 0.3 | 0.2 | 0.6 |
@@ -181,7 +181,7 @@ _Last updated: 2026-11-22 14:01 UTC_
 | karlmdavis/liquibase | 0.1 | 0.1 | 0.0 | 0.1 |
 | karlmdavis/m2e-core | 0.2 | 1.3 | 0.2 | 0.6 |
 | karlmdavis/m2e-core-tests | 0.2 | 0.3 | 0.0 | 0.1 |
-| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.5 | 2.3 |
+| karlmdavis/obsidian-operator | 0.9 | 1.5 | 1.5 | 2.2 |
 | karlmdavis/perfect-note | 0.6 | 0.3 | 0.1 | 0.5 |
 | karlmdavis/puppet-archive | 0.1 | 0.1 | 0.0 | 0.1 |
 | karlmdavis/puppet-sonar | 0.3 | 0.3 | 0.1 | 0.7 |
@@ -190,7 +190,7 @@ _Last updated: 2026-11-22 14:01 UTC_
 | karlmdavis/stockfighter-trades-solutions | 0.3 | 0.3 | 0.1 | 0.4 |
 | karlmdavis/test-repo-for-move | 0.3 | 0.2 | 0.1 | 0.4 |
 | karlmdavis/todoist-ai | 0.0 | 0.1 | 0.1 | 0.1 |
-| karlmdavis/usgs-water-api-java | 3.4 | 3.3 | 2.7 | 0.8 |
+| karlmdavis/usgs-water-api-java | 3.4 | 3.3 | 2.7 | 0.9 |
 | karlmdavis/workstation-base-ansible-role | 0.4 | 0.3 | 0.2 | 0.5 |
 | karlmdavis/xmlpull | 0.2 | 0.6 | 1.2 | 1.3 |
 
