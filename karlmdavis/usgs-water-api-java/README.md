@@ -1,6 +1,6 @@
 # karlmdavis/usgs-water-api-java
 
-_Last updated: 2026-11-25 16:46 UTC_
+_Last updated: 2026-11-26 16:21 UTC_
 
 ```mermaid
 xychart-beta
@@ -35,7 +35,7 @@ xychart-beta
 | 2026-08 | 0.0 | 0.0 | 1.1 | 3.1 |
 | 2026-09 | 0.0 | 0.0 | 0.8 | 1.7 |
 | 2026-10 | 0.0 | 0.0 | 0.6 | 1.1 |
-| 2026-11 | 0.0 | 0.0 | 0.5 | 0.7 |
+| 2026-11 | 0.0 | 0.0 | 0.4 | 0.6 |
 
 ## Current Totals
 
